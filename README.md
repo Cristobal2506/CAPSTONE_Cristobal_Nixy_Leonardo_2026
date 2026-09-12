@@ -9,10 +9,10 @@ Cliente: **Triskel Edu**
 
 ## 👥 Equipo
 
-|---|---|
-| **Cristóbal Muñoz**
-| **Nixy Silva**
-| **Leonardo Figueroa** 
+
+Cristóbal Muñoz cra.munozr@duocuc.cl   
+Nixy Silva nix.silva@duocu.cl   
+Leonardo Figueroa leo.figueroa@duocuc.cl
 
 **Docente:** Arturo Vargas
 
