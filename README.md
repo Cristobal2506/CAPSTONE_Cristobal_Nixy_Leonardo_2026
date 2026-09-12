@@ -1,4 +1,4 @@
-# Rumbo SIMCE 🏔️🦅
+# Rumbo SIMCE 
 
 **Plataforma móvil de preparación adaptativa para el SIMCE de Matemática de 4° básico**
 
@@ -6,6 +6,16 @@ Proyecto APT — Asignatura Capstone (PTY4614) — Ingeniería en Informática, 
 Cliente: **Triskel Edu**
 
 ---
+
+## 👥 Equipo
+
+|---|---|
+| **Cristóbal Muñoz**
+| **Nixy Silva**
+| **Leonardo Figueroa** 
+
+**Docente:** Arturo Vargas
+
 
 ## 📖 Descripción del proyecto
 
@@ -120,17 +130,6 @@ Cuatro niveles aplicados de forma incremental durante los sprints: **pruebas uni
 
 ---
 
-## 👥 Equipo
-
-| Integrante | Rol / foco |
-|---|---|
-| **Cristóbal Muñoz** | Datos, inteligencia artificial y motor adaptativo |
-| **Nixy Silva** | Por definir |
-| **Leonardo Figueroa** | Por definir |
-
-**Docente:** Arturo Vargas
-
----
 
 ## 📅 Planificación por sprints
 
