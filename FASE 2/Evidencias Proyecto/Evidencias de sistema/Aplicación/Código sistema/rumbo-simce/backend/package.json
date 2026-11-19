@@ -1,0 +1,59 @@
+{
+  "name": "rumbo-simce-api",
+  "version": "0.16.3",
+  "private": true,
+  "description": "API REST de Rumbo SIMCE (Triskel Edu)",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "db:migrate": "node scripts/migrate.js",
+    "db:seed": "node scripts/migrate.js --seed",
+    "db:reset": "node scripts/migrate.js --reset --seed",
+    "test": "jest --runInBand tests/v163.test.js",
+    "db:demo": "node scripts/demo.js",
+    "test:legacy": "jest --runInBand",
+    "verificar:v13": "node scripts/verificar-v13.cjs",
+    "verificar:v13.1": "node scripts/verificar-v131.cjs",
+    "verificar:v14": "node scripts/verificar-v14.cjs",
+    "test:v14": "jest --runInBand tests/v14.test.js",
+    "test:v15": "jest --runInBand tests/v15.test.js",
+    "verificar:v15": "node scripts/verificar-v15.cjs",
+    "test:v16": "jest --runInBand tests/v163.test.js",
+    "test:reconocimiento": "jest --runInBand --config jest.reconocimiento.config.js",
+    "verificar:v16": "node scripts/verificar-v16.cjs",
+    "demo:reconocimiento": "node scripts/demo-reconocimiento.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "setupFiles": [
+      "./tests/env.js"
+    ],
+    "globalSetup": "./tests/globalSetup.js",
+    "globalTeardown": "./tests/globalTeardown.js",
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "tests/reconocimiento.test.js",
+      "tests/fixtures/"
+    ]
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "nodemailer": "^10.0.16",
+    "onnxruntime-web": "^1.31.1",
+    "pg": "^8.23.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.0"
+  }
+}

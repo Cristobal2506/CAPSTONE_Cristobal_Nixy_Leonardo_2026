@@ -1,0 +1,4452 @@
+{
+  "lecciones": [
+    {
+      "u": 1,
+      "c": 4,
+      "titulo": "Números que encontramos a diario",
+      "oa": "OA1",
+      "ejemplos": [
+        [
+          "En una biblioteca hay 3.205 libros. ¿Cómo se descompone?",
+          "3.000 + 200 + 5 representa 3.205: ubica millares, centenas, decenas y unidades."
+        ],
+        [
+          "Un marcador señala 4.000 y avanza de mil en mil. ¿Qué sigue?",
+          "4.000 + 1.000 = 5.000. La recta indica intervalos iguales."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Un cartel municipal dice 4.206 habitantes. ¿Cómo se escribe en palabras?",
+          "cuatro mil doscientos seis",
+          [
+            "cuatro mil veintiséis",
+            "cuatro mil sesenta y dos",
+            "cuatrocientos veintiséis"
+          ],
+          "Se separan millares, centenas y unidades.",
+          "OA1",
+          "verbal"
+        ],
+        [
+          "En una etiqueta aparece «siete mil cuarenta y tres». ¿Cuál es su escritura en cifras?",
+          "7.043",
+          [
+            "7.403",
+            "7.430",
+            "743"
+          ],
+          "Siete miles, cuatro decenas y tres unidades.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "En un registro hay 3.412 y 3.421. ¿Cuál corresponde a la cantidad mayor?",
+          "3.421",
+          [
+            "3.412"
+          ],
+          "Miles y centenas iguales; 2 decenas supera 1 decena.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "Una caja registradora muestra 6.583. ¿Qué valor tiene el dígito [[5]] destacado?",
+          "500",
+          [
+            "5",
+            "50",
+            "5.000"
+          ],
+          "El 5 está en el lugar de las centenas.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "La combinación de 8 millares, 2 centenas y 7 unidades forma el número…",
+          "8.207",
+          [
+            "8.270",
+            "8.027",
+            "8.720"
+          ],
+          "8.000 + 200 + 7 = 8.207.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "En la recta numérica: 1.000 → 2.000 → 3.000 → ____. ¿Qué número sigue?",
+          "4.000",
+          [
+            "3.100",
+            "5.000",
+            "3.010"
+          ],
+          "La separación es de mil unidades.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "Un cajero entrega 3 billetes de $1.000 y 4 de $100. ¿Cuánto dinero entrega?",
+          "$3.400",
+          [
+            "$3.040",
+            "$4.300",
+            "$7.000"
+          ],
+          "Tres millares y cuatro centenas suman $3.400.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "Una clave es mayor que 5.099 y menor que 5.102. ¿Cuál de estos números cumple?",
+          "5.100",
+          [
+            "5.098",
+            "5.103",
+            "5.090"
+          ],
+          "5.100 está dentro del intervalo indicado.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "La máquina separó 9.061 en bloques: 9.000 + ____ + 1. ¿Qué falta?",
+          "60",
+          [
+            "600",
+            "6",
+            "6000"
+          ],
+          "9.061 = 9.000 + 60 + 1.",
+          "OA1",
+          "numerica"
+        ],
+        [
+          "Entre 7.099 y 7.101 hay exactamente un entero. ¿Cuál es?",
+          "7.100",
+          [
+            "7.090",
+            "7.110",
+            "7.200"
+          ],
+          "El sucesor de 7.099 es 7.100.",
+          "OA1",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 1,
+      "c": 5,
+      "titulo": "Sumas para organizar actividades",
+      "oa": "OA3",
+      "ejemplos": [
+        [
+          "Para una feria se anotan 240 y 120 entradas vendidas. ¿Cuál es el total?",
+          "240 + 120 = 360 entradas; sumar significa reunir cantidades."
+        ],
+        [
+          "En una cuenta se suman 120 + 80 + 30. ¿Cómo hacerlo rápido?",
+          "120 + 80 = 200; luego + 30 = 230. Agrupar facilita el cálculo."
+        ]
+      ],
+      "preguntas": [
+        [
+          "En una campaña juntaron 248 tapitas el lunes y 173 el martes. ¿Cuántas reunieron?",
+          "421",
+          [
+            "411",
+            "321",
+            "431"
+          ],
+          "248 + 173 = 421.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "El museo recibió 125 visitas en la mañana, 86 al mediodía y 104 en la tarde. ¿Total de visitas?",
+          "315",
+          [
+            "305",
+            "325",
+            "415"
+          ],
+          "125 + 86 + 104 = 315.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Una familia ahorró $370 y luego otros $290. ¿Cuánto acumula?",
+          "$660",
+          [
+            "$560",
+            "$670",
+            "$760"
+          ],
+          "370 + 290 = 660.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "En un taller habían 398 piezas y llegan 101. Sin hacer el algoritmo completo, ¿cuál es la mejor estimación?",
+          "cerca de 500",
+          [
+            "cerca de 200",
+            "cerca de 800",
+            "cerca de 1.000"
+          ],
+          "398 se aproxima a 400 y 101 a 100.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Un marcador muestra 169 puntos. El equipo obtiene 47 más. ¿Cuál es el nuevo puntaje?",
+          "216",
+          [
+            "206",
+            "226",
+            "116"
+          ],
+          "169 + 47 = 216.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Para equipar una sala se compran 234 lápices, 156 gomas y 110 reglas. ¿Cuántos objetos son?",
+          "500",
+          [
+            "490",
+            "400",
+            "510"
+          ],
+          "234 + 156 + 110 = 500.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Una colecta reunió 75 monedas, después 125 y finalmente 50. ¿Qué total tiene?",
+          "250",
+          [
+            "225",
+            "200",
+            "275"
+          ],
+          "75 + 125 + 50 = 250.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Un catálogo registra 397 láminas y recibe 203 nuevas. ¿Qué suma permite completar la centena?",
+          "397 + 203 = 600",
+          [
+            "397 + 203 = 500",
+            "397 + 203 = 590",
+            "397 + 203 = 700"
+          ],
+          "397 necesita 3 para 400 y sobran 200: 600.",
+          "OA3",
+          "verbal"
+        ],
+        [
+          "La profesora corrige 128 pruebas, luego 99 y después 73. ¿Cuántas corrige en total?",
+          "300",
+          [
+            "290",
+            "310",
+            "400"
+          ],
+          "128 + 99 + 73 = 300.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "En la ruta escolar suben 17 niños y ya viajaban 28. Luego suben 15 más. ¿Cuántos van ahora?",
+          "60",
+          [
+            "50",
+            "55",
+            "70"
+          ],
+          "28 + 17 + 15 = 60.",
+          "OA3",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 1,
+      "c": 6,
+      "titulo": "Restas y decisiones numéricas",
+      "oa": "OA3",
+      "ejemplos": [
+        [
+          "En un estante hay 600 cajas; se retiran 150. ¿Cuántas quedan?",
+          "600 - 150 = 450. Restar permite saber cuántas quedan."
+        ],
+        [
+          "¿Qué operación usar para saber cuántos faltan de 225 a 300?",
+          "Se calcula 300 - 225 = 75, porque buscamos la diferencia."
+        ]
+      ],
+      "preguntas": [
+        [
+          "En un huerto había 825 semillas; se sembraron 348. ¿Cuántas quedan?",
+          "477",
+          [
+            "487",
+            "577",
+            "467"
+          ],
+          "825 - 348 = 477.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Un teatro tiene 600 asientos; 275 están ocupados. ¿Cuántos están libres?",
+          "325",
+          [
+            "375",
+            "225",
+            "425"
+          ],
+          "600 - 275 = 325.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Una excursión cuesta $940 y Ana posee $685. ¿Cuánto le falta?",
+          "$255",
+          [
+            "$245",
+            "$265",
+            "$355"
+          ],
+          "940 - 685 = 255.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "El contador de bicicletas pasa de 704 a 389 tras una revisión. ¿Cuál fue la disminución?",
+          "315",
+          [
+            "325",
+            "305",
+            "415"
+          ],
+          "704 - 389 = 315.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Una biblioteca tenía 500 revistas; prestó 96. ¿Qué estimación es más razonable?",
+          "quedan cerca de 400",
+          [
+            "quedan cerca de 100",
+            "quedan cerca de 50",
+            "quedan cerca de 600"
+          ],
+          "500 - 100 ≈ 400.",
+          "OA3",
+          "verbal"
+        ],
+        [
+          "De 730 metros de sendero, se han reparado 485. ¿Qué longitud queda por reparar?",
+          "245 m",
+          [
+            "255 m",
+            "345 m",
+            "235 m"
+          ],
+          "730 - 485 = 245.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Hay 423 entradas. Se venden 180 y luego otras 70. ¿Cuántas sobran?",
+          "173",
+          [
+            "183",
+            "273",
+            "163"
+          ],
+          "423 - 180 - 70 = 173.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Para llegar a 900 puntos, una jugadora que tiene 639 necesita…",
+          "261",
+          [
+            "271",
+            "161",
+            "361"
+          ],
+          "900 - 639 = 261.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "Un tanque tiene 780 litros; se usan 125 y después 225. ¿Cuántos litros quedan?",
+          "430",
+          [
+            "440",
+            "530",
+            "330"
+          ],
+          "780 - 125 - 225 = 430.",
+          "OA3",
+          "numerica"
+        ],
+        [
+          "El gráfico de ventas indica 250 en junio y 187 en julio. ¿Cuántas ventas menos hubo en julio?",
+          "63",
+          [
+            "73",
+            "53",
+            "437"
+          ],
+          "250 - 187 = 63.",
+          "OA3",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 2,
+      "c": 4,
+      "titulo": "Multiplicar pensando, no solo memorizando",
+      "oa": "OA5",
+      "ejemplos": [
+        [
+          "Una caja tiene 12 lápices. Cinco cajas tienen…",
+          "12 × 5 = 60; también 10 × 5 + 2 × 5 = 60."
+        ],
+        [
+          "Cuatro filas tienen 23 asientos cada una.",
+          "23 × 4 = (20 × 4) + (3 × 4) = 92."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Un vivero prepara 123 plantitas en cada una de 3 mesas. ¿Cuántas hay?",
+          "369",
+          [
+            "366",
+            "359",
+            "469"
+          ],
+          "123 × 3 = 369.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Cada página de un álbum tiene 24 casillas. Si hay 4 páginas, ¿cuántas casillas?",
+          "96",
+          [
+            "84",
+            "106",
+            "86"
+          ],
+          "24 × 4 = 96.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Para calcular 36 × 5 sin calculadora, ¿qué descomposición es correcta?",
+          "(30 × 5) + (6 × 5)",
+          [
+            "30 + 6 × 5",
+            "(30 × 6) + 5",
+            "36 + 5"
+          ],
+          "Se distribuye la multiplicación en decenas y unidades.",
+          "OA5",
+          "verbal"
+        ],
+        [
+          "Una imprenta empaqueta 215 folletos por caja. Con 4 cajas, ¿cuántos folletos?",
+          "860",
+          [
+            "840",
+            "960",
+            "760"
+          ],
+          "215 × 4 = 860.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Se colocan 6 filas de 18 macetas. ¿Cuál operación representa el arreglo?",
+          "6 × 18",
+          [
+            "6 + 18",
+            "18 − 6",
+            "18 ÷ 6"
+          ],
+          "Filas por elementos de cada fila.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "El precio de un cuaderno es $145. ¿Cuánto cuestan 3 cuadernos?",
+          "$435",
+          [
+            "$445",
+            "$335",
+            "$535"
+          ],
+          "145 × 3 = 435.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Una corredora da 4 vueltas de 125 m cada una. ¿Qué distancia recorre?",
+          "500 m",
+          [
+            "450 m",
+            "400 m",
+            "525 m"
+          ],
+          "125 × 4 = 500.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "¿Qué estimación se acerca más a 198 × 3?",
+          "600",
+          [
+            "300",
+            "900",
+            "200"
+          ],
+          "198 ≈ 200, luego 200 × 3 = 600.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Dos bandejas tienen 307 semillas cada una. ¿Cuál es el total?",
+          "614",
+          [
+            "604",
+            "714",
+            "612"
+          ],
+          "307 × 2 = 614.",
+          "OA5",
+          "numerica"
+        ],
+        [
+          "Una panadería hornea 112 panes por tanda y realiza 5 tandas. ¿Cuántos panes?",
+          "560",
+          [
+            "550",
+            "570",
+            "460"
+          ],
+          "112 × 5 = 560.",
+          "OA5",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 2,
+      "c": 5,
+      "titulo": "Repartos equitativos y cocientes",
+      "oa": "OA6",
+      "ejemplos": [
+        [
+          "Se reparten 36 lápices en 4 estuches iguales.",
+          "36 ÷ 4 = 9 por estuche; comprueba 9 × 4 = 36."
+        ],
+        [
+          "Una excursión organiza 48 alumnos en 6 equipos.",
+          "48 ÷ 6 = 8 por equipo."
+        ]
+      ],
+      "preguntas": [
+        [
+          "La biblioteca reparte 72 marcapáginas en 8 grupos iguales. ¿Cuántos recibe cada grupo?",
+          "9",
+          [
+            "8",
+            "7",
+            "10"
+          ],
+          "72 ÷ 8 = 9.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Una tienda distribuye 63 pelotas en 7 canastos iguales. ¿Cuántas por canasto?",
+          "9",
+          [
+            "8",
+            "7",
+            "6"
+          ],
+          "63 ÷ 7 = 9.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Para comprobar 54 ÷ 6 = 9, ¿qué multiplicación corresponde?",
+          "9 × 6 = 54",
+          [
+            "6 × 6 = 54",
+            "9 × 9 = 54",
+            "54 × 6 = 9"
+          ],
+          "La multiplicación es inversa de la división.",
+          "OA6",
+          "verbal"
+        ],
+        [
+          "Se forman paquetes de 5 pegatinas con 45 pegatinas. ¿Cuántos paquetes completos?",
+          "9",
+          [
+            "8",
+            "7",
+            "10"
+          ],
+          "45 ÷ 5 = 9.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "El capitán tiene 84 fichas para 7 integrantes. ¿Cuántas recibe cada integrante?",
+          "12",
+          [
+            "11",
+            "13",
+            "14"
+          ],
+          "84 ÷ 7 = 12.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Un huerto divide 96 semillas en 8 surcos iguales. ¿Cuántas por surco?",
+          "12",
+          [
+            "10",
+            "14",
+            "16"
+          ],
+          "96 ÷ 8 = 12.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Si 42 sillas se reparten en 6 filas iguales, ¿qué expresión resuelve el problema?",
+          "42 ÷ 6",
+          [
+            "42 × 6",
+            "42 + 6",
+            "42 − 6"
+          ],
+          "Se divide el total en grupos iguales.",
+          "OA6",
+          "verbal"
+        ],
+        [
+          "Una caja de 75 libros se reparte entre 5 aulas. ¿Cuántos libros recibe cada aula?",
+          "15",
+          [
+            "10",
+            "12",
+            "20"
+          ],
+          "75 ÷ 5 = 15.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Para hallar 68 ÷ 4, separa 68 en 40 y 28. ¿Qué cociente se obtiene?",
+          "17",
+          [
+            "14",
+            "15",
+            "18"
+          ],
+          "40 ÷ 4 + 28 ÷ 4 = 10 + 7 = 17.",
+          "OA6",
+          "numerica"
+        ],
+        [
+          "Hay 81 postales para 9 expositores. ¿Cuántas postales recibe cada uno?",
+          "9",
+          [
+            "7",
+            "8",
+            "10"
+          ],
+          "81 ÷ 9 = 9.",
+          "OA6",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 2,
+      "c": 6,
+      "titulo": "Pequeñas decisiones con dinero",
+      "oa": "OA7",
+      "ejemplos": [
+        [
+          "Si pagas $500 por algo de $350, el vuelto es…",
+          "$500 − $350 = $150."
+        ],
+        [
+          "Tres boletos cuestan $200 cada uno.",
+          "200 × 3 = $600. Multiplicamos el precio unitario."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Tomás compra un jugo de $420 y un pan de $350. ¿Cuál es el costo total?",
+          "$770",
+          [
+            "$670",
+            "$870",
+            "$760"
+          ],
+          "420 + 350 = 770.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Un boleto cuesta $180. ¿Cuánto cuestan cuatro boletos?",
+          "$720",
+          [
+            "$620",
+            "$740",
+            "$820"
+          ],
+          "180 × 4 = 720.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Pagas $1.000 por una fruta que cuesta $675. ¿Cuál es tu vuelto?",
+          "$325",
+          [
+            "$225",
+            "$335",
+            "$425"
+          ],
+          "1.000 − 675 = 325.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Un grupo reúne $900 para comprar 3 juegos iguales. ¿Cuánto puede costar cada juego?",
+          "$300",
+          [
+            "$200",
+            "$400",
+            "$600"
+          ],
+          "900 ÷ 3 = 300.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Martina lleva $800. Compra un lápiz de $250 y un borrador de $180. ¿Cuánto conserva?",
+          "$370",
+          [
+            "$430",
+            "$470",
+            "$270"
+          ],
+          "800 − 250 − 180 = 370.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Una colación cuesta $240. ¿Qué operación permite saber el costo de cinco colaciones?",
+          "240 × 5",
+          [
+            "240 ÷ 5",
+            "240 − 5",
+            "240 + 5"
+          ],
+          "El mismo precio se repite cinco veces.",
+          "OA7",
+          "verbal"
+        ],
+        [
+          "Dos billetes de $1.000 y tres monedas de $100 representan…",
+          "$2.300",
+          [
+            "$2.030",
+            "$3.200",
+            "$2.130"
+          ],
+          "2.000 + 300 = 2.300.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Entre una mochila de $890 y una de $970, ¿cuál es la diferencia de precio?",
+          "$80",
+          [
+            "$70",
+            "$90",
+            "$180"
+          ],
+          "970 − 890 = 80.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Alicia tenía $950, recibió $200 y gastó $480. ¿Cuánto tiene?",
+          "$670",
+          [
+            "$570",
+            "$770",
+            "$680"
+          ],
+          "950 + 200 − 480 = 670.",
+          "OA7",
+          "numerica"
+        ],
+        [
+          "Se compraron 6 lápices por $720 en total. ¿Cuánto costó cada lápiz?",
+          "$120",
+          [
+            "$100",
+            "$140",
+            "$160"
+          ],
+          "720 ÷ 6 = 120.",
+          "OA7",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 3,
+      "c": 4,
+      "titulo": "Fracciones en objetos y grupos",
+      "oa": "OA8",
+      "ejemplos": [
+        [
+          "De 8 gajos iguales, 3 están marcados.",
+          "La fracción es 3/8: tres partes de ocho."
+        ],
+        [
+          "Una colección de 12 cartas tiene 6 rojas.",
+          "6 de 12 se expresan como 6/12 o 1/2."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Un círculo está dividido en 6 partes iguales; 2 están pintadas. ¿Qué fracción está pintada?",
+          "2/6",
+          [
+            "6/2",
+            "2/5",
+            "1/6"
+          ],
+          "Dos partes seleccionadas entre seis iguales.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "En una bandeja hay 10 frutas y 4 son peras. ¿Qué fracción de las frutas son peras?",
+          "4/10",
+          [
+            "10/4",
+            "6/10",
+            "4/6"
+          ],
+          "Cuatro elementos de diez.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Una cinta se divide en 8 segmentos iguales; 5 llevan un círculo. ¿Qué fracción representa los marcados?",
+          "5/8",
+          [
+            "3/8",
+            "8/5",
+            "5/6"
+          ],
+          "Numerador: marcados; denominador: segmentos.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "Una receta necesita 1/4 de taza de agua. ¿Qué significa el 4?",
+          "cuatro partes iguales del total",
+          [
+            "cuatro tazas completas",
+            "cuatro ingredientes",
+            "cuatro cucharadas extras"
+          ],
+          "El denominador cuenta las partes iguales del todo.",
+          "OA8",
+          "verbal"
+        ],
+        [
+          "En una caja con 12 lápices, 3 son verdes. ¿Qué fracción expresa los lápices verdes?",
+          "3/12",
+          [
+            "3/9",
+            "12/3",
+            "9/12"
+          ],
+          "3 de 12 lápices.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "En una recta de 0 a 1 dividida en 5 partes iguales, el tercer punto indica…",
+          "3/5",
+          [
+            "5/3",
+            "2/5",
+            "3/4"
+          ],
+          "Se cuentan tres quintos desde cero.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "Una pizza tiene 8 rebanadas iguales y quedan 3. ¿Qué fracción de pizza queda?",
+          "3/8",
+          [
+            "5/8",
+            "8/3",
+            "3/5"
+          ],
+          "Tres octavos permanecen.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "¿Cuál es una situación que representa 1/2?",
+          "pintar 3 de 6 casillas iguales",
+          [
+            "pintar 2 de 5",
+            "pintar 1 de 3",
+            "pintar 3 de 8"
+          ],
+          "3/6 es igual a la mitad.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "De 20 canicas, 5 son amarillas. ¿Cuál representa esa parte del grupo?",
+          "5/20",
+          [
+            "20/5",
+            "15/20",
+            "5/15"
+          ],
+          "5 de 20 canicas.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Una bandera tiene 3 franjas iguales y solo una es azul. ¿Qué fracción es azul?",
+          "1/3",
+          [
+            "3/1",
+            "2/3",
+            "1/2"
+          ],
+          "Una franja de tres.",
+          "OA8",
+          "visual"
+        ]
+      ]
+    },
+    {
+      "u": 3,
+      "c": 5,
+      "titulo": "Orden y equivalencias visibles",
+      "oa": "OA8",
+      "ejemplos": [
+        [
+          "Entre 1/4 y 1/2, ¿qué parte es mayor?",
+          "La mitad cubre más superficie que un cuarto."
+        ],
+        [
+          "Dos tiras iguales se dividen en 8 y en 4 partes.",
+          "2/4 coincide con 4/8 al superponerlas."
+        ]
+      ],
+      "preguntas": [
+        [
+          "De dos barras iguales, una tiene 3/8 coloreados y otra 5/8. ¿Cuál tiene más?",
+          "5/8",
+          [
+            "3/8"
+          ],
+          "Con igual denominador gana el mayor numerador.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "Si una barra tiene 2/4 pintados, ¿qué fracción equivale a la misma cantidad?",
+          "1/2",
+          [
+            "1/4",
+            "3/4",
+            "1/3"
+          ],
+          "Dos cuartos son una mitad.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Una recta marca 1/5, 2/5, 3/5 y 4/5. ¿Cuál punto está más cerca de 1?",
+          "4/5",
+          [
+            "1/5",
+            "2/5",
+            "3/5"
+          ],
+          "4/5 deja solo una quinta parte hasta 1.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "Lucía consumió 1/3 de su chocolate y Leo 1/6 de otro igual. ¿Quién consumió más?",
+          "Lucía",
+          [
+            "Leo"
+          ],
+          "Un tercio es mayor que un sexto.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Una figura muestra 6 de 12 cuadros sombreados. ¿Qué fracción simplificada representa?",
+          "1/2",
+          [
+            "1/3",
+            "1/4",
+            "2/3"
+          ],
+          "Seis de doce equivalen a la mitad.",
+          "OA8",
+          "visual"
+        ],
+        [
+          "¿Qué fracción es mayor: 3/10 o 7/10?",
+          "7/10",
+          [
+            "3/10"
+          ],
+          "Al dividir el mismo todo en diez partes, siete es más que tres.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Un recipiente contiene 1/4 de litro y otro 1/2. ¿Qué recipiente contiene menos?",
+          "el de 1/4",
+          [
+            "el de 1/2"
+          ],
+          "Un cuarto es menor que un medio.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "En un mosaico, 2/8 de las piezas son rojas. ¿Qué porcentaje del mosaico representa aproximadamente?",
+          "25%",
+          [
+            "50%",
+            "75%",
+            "10%"
+          ],
+          "2/8 = 1/4 = 25%.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "Ordena las fracciones 1/8, 4/8 y 6/8 de menor a mayor.",
+          "1/8, 4/8, 6/8",
+          [
+            "6/8, 4/8, 1/8",
+            "4/8, 1/8, 6/8",
+            "1/8, 6/8, 4/8"
+          ],
+          "Mismo denominador: ordenar numeradores.",
+          "OA8",
+          "numerica"
+        ],
+        [
+          "En dos caminos de igual longitud, se recorren 4/6 y 2/6. ¿Cuál distancia es menor?",
+          "2/6",
+          [
+            "4/6"
+          ],
+          "Dos sextos es menos que cuatro sextos.",
+          "OA8",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 3,
+      "c": 6,
+      "titulo": "Sumar y restar partes del mismo todo",
+      "oa": "OA9",
+      "ejemplos": [
+        [
+          "Si pintas 2/8 y luego 3/8 de una misma figura, sumas…",
+          "2/8 + 3/8 = 5/8. El denominador no cambia."
+        ],
+        [
+          "De 7/10 de una cinta se retiran 2/10.",
+          "7/10 − 2/10 = 5/10."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Una maqueta usa 2/6 de cartón rojo y 3/6 azul. ¿Qué fracción se ocupó?",
+          "5/6",
+          [
+            "5/12",
+            "1/6",
+            "6/5"
+          ],
+          "Suma de sextos: 2+3 = 5.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "Un sendero tiene 9/12 señalizados. Se borran 4/12. ¿Qué fracción sigue señalizada?",
+          "5/12",
+          [
+            "5/24",
+            "13/12",
+            "4/12"
+          ],
+          "9/12 − 4/12 = 5/12.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "En una jarra se vierten 1/4 y luego 2/4 de litro. ¿Cuánto se añadió en total?",
+          "3/4 L",
+          [
+            "3/8 L",
+            "1/2 L",
+            "2/4 L"
+          ],
+          "Las partes son cuartos: 1 + 2 = 3.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "Se usaron 7/10 de una madeja de lana y se recuperaron 3/10. ¿Qué fracción sigue utilizada?",
+          "4/10",
+          [
+            "10/10",
+            "4/20",
+            "3/10"
+          ],
+          "7/10 − 3/10 = 4/10.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "¿Qué operación representa juntar 2/5 de una tira con otros 2/5?",
+          "2/5 + 2/5 = 4/5",
+          [
+            "2/5 + 2/5 = 4/10",
+            "2/5 + 2/5 = 2/10",
+            "2/5 + 2/5 = 0"
+          ],
+          "Se conserva el denominador común.",
+          "OA9",
+          "verbal"
+        ],
+        [
+          "Un álbum tenía 8/8 de páginas libres y se ocupan 5/8. ¿Qué parte queda libre?",
+          "3/8",
+          [
+            "3/16",
+            "5/8",
+            "8/3"
+          ],
+          "8/8 − 5/8 = 3/8.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "En una carrera alguien corre 3/12 del trayecto, descansa y corre 4/12 más. ¿Qué parte recorrió?",
+          "7/12",
+          [
+            "7/24",
+            "1/12",
+            "12/7"
+          ],
+          "3/12 + 4/12 = 7/12.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "Se pinta 4/8 de una pared y luego 1/8 adicional. ¿Qué fracción quedó pintada?",
+          "5/8",
+          [
+            "4/16",
+            "3/8",
+            "1/2"
+          ],
+          "4/8 + 1/8 = 5/8.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "Una receta tenía 6/6 de harina y se utilizaron 2/6. ¿Qué fracción queda disponible?",
+          "4/6",
+          [
+            "4/12",
+            "2/6",
+            "6/4"
+          ],
+          "6/6 − 2/6 = 4/6.",
+          "OA9",
+          "numerica"
+        ],
+        [
+          "Si de 11/12 de una figura sombreada borras 5/12, queda…",
+          "6/12",
+          [
+            "6/24",
+            "5/12",
+            "16/12"
+          ],
+          "11/12 − 5/12 = 6/12.",
+          "OA9",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 4,
+      "c": 4,
+      "titulo": "Descubrir reglas en tablas",
+      "oa": "OA13",
+      "ejemplos": [
+        [
+          "En la lista 3, 7, 11, 15, cada número aumenta 4.",
+          "La regla es sumar 4. Sigue 19."
+        ],
+        [
+          "Una tabla tiene entrada 2→6, 3→9.",
+          "Multiplicar por tres transforma la entrada en la salida."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Una escalera usa los números 14, 19, 24, 29. ¿Qué número iría después?",
+          "34",
+          [
+            "30",
+            "33",
+            "39"
+          ],
+          "Se suma 5 cada vez.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "En una tabla: 2→8, 3→12, 5→20. ¿Qué salida corresponde a 6?",
+          "24",
+          [
+            "22",
+            "18",
+            "30"
+          ],
+          "La regla es multiplicar por 4.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "Una máquina aplica “restar 7”. Si entra 32, ¿qué número sale?",
+          "25",
+          [
+            "39",
+            "24",
+            "27"
+          ],
+          "32 − 7 = 25.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "La lista 4, 8, 12, 17, 20 tiene un error si la regla es sumar 4. ¿Qué número está mal?",
+          "17",
+          [
+            "4",
+            "12",
+            "20"
+          ],
+          "Debería aparecer 16.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "En una hoja la secuencia es 90, 80, 70, __, 50. ¿Qué falta?",
+          "60",
+          [
+            "65",
+            "40",
+            "75"
+          ],
+          "Disminuye 10 por paso.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "Cada cuadrado añade 3 fósforos: figura 1 = 4, figura 2 = 7. ¿Cuántos fósforos tendrá la figura 4?",
+          "13",
+          [
+            "10",
+            "14",
+            "16"
+          ],
+          "4, 7, 10, 13.",
+          "OA13",
+          "visual"
+        ],
+        [
+          "Una tabla multiplica por 5 el número de bolsas. Si hay 7 bolsas, ¿cuántas frutas hay?",
+          "35",
+          [
+            "30",
+            "40",
+            "12"
+          ],
+          "7 × 5 = 35.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "Observa 5, 10, 20, 40. ¿Qué regla explica el patrón?",
+          "multiplicar por 2",
+          [
+            "sumar 5",
+            "restar 2",
+            "multiplicar por 5"
+          ],
+          "Cada término es el doble.",
+          "OA13",
+          "verbal"
+        ],
+        [
+          "Una secuencia empieza en 48 y resta 6 cada vez. ¿Cuál es su cuarto término?",
+          "30",
+          [
+            "36",
+            "24",
+            "42"
+          ],
+          "48, 42, 36, 30.",
+          "OA13",
+          "numerica"
+        ],
+        [
+          "En una tabla: día 1 = 3 plantas, día 2 = 6, día 3 = 9. Manteniendo la regla, ¿cuántas en día 6?",
+          "18",
+          [
+            "15",
+            "21",
+            "12"
+          ],
+          "Tres plantas por día.",
+          "OA13",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 4,
+      "c": 5,
+      "titulo": "La incógnita en historias",
+      "oa": "OA14",
+      "ejemplos": [
+        [
+          "La caja contiene x lápices; con 5 más hay 12.",
+          "x + 5 = 12, por tanto x = 7."
+        ],
+        [
+          "En una balanza, x − 3 = 8.",
+          "Sumar 3 a ambos lados da x = 11."
+        ]
+      ],
+      "preguntas": [
+        [
+          "La suma de una cantidad desconocida y 9 es 24. ¿Cuánto vale la cantidad?",
+          "15",
+          [
+            "13",
+            "16",
+            "33"
+          ],
+          "x + 9 = 24; x = 24 − 9.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "Una mochila con 18 objetos pierde x y quedan 11. ¿Cuánto se retiró?",
+          "7",
+          [
+            "6",
+            "8",
+            "29"
+          ],
+          "18 − x = 11; x = 7.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "¿Cuál ecuación describe “un número aumentado en 12 es 30”?",
+          "x + 12 = 30",
+          [
+            "x − 12 = 30",
+            "x + 30 = 12",
+            "12 − x = 30"
+          ],
+          "Aumentado en 12 significa sumar 12.",
+          "OA14",
+          "verbal"
+        ],
+        [
+          "En una balanza, una caja x y cuatro pesas suman 19. ¿Cuánto pesa la caja?",
+          "15",
+          [
+            "13",
+            "16",
+            "23"
+          ],
+          "x + 4 = 19; x = 15.",
+          "OA14",
+          "visual"
+        ],
+        [
+          "Un bus tenía x personas; bajaron 8 y quedaron 17. ¿Cuántas había al inicio?",
+          "25",
+          [
+            "9",
+            "24",
+            "26"
+          ],
+          "x − 8 = 17; x = 25.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "Verifica cuál número cumple la ecuación x + 13 = 40.",
+          "27",
+          [
+            "26",
+            "28",
+            "53"
+          ],
+          "27 + 13 = 40.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "El perímetro no se usa: en una bolsa hay x botones y se agregan 6 hasta tener 21. ¿Qué ecuación representa?",
+          "x + 6 = 21",
+          [
+            "x − 6 = 21",
+            "x + 21 = 6",
+            "6 − x = 21"
+          ],
+          "Se agregan seis al valor inicial.",
+          "OA14",
+          "verbal"
+        ],
+        [
+          "Un número menos 14 es 35. ¿Cuál es ese número?",
+          "49",
+          [
+            "21",
+            "45",
+            "51"
+          ],
+          "x − 14 = 35; x = 49.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "En una tabla x + 7 = 32. ¿Qué operación inversa permite hallar x?",
+          "32 − 7",
+          [
+            "32 + 7",
+            "32 × 7",
+            "7 − 32"
+          ],
+          "La resta deshace una suma.",
+          "OA14",
+          "verbal"
+        ],
+        [
+          "Se compraron x tarjetas, se entregaron 15 y quedaron 42. ¿Cuántas se compraron?",
+          "57",
+          [
+            "27",
+            "47",
+            "67"
+          ],
+          "x − 15 = 42; x = 57.",
+          "OA14",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 4,
+      "c": 6,
+      "titulo": "Comparar cantidades con desigualdades",
+      "oa": "OA14",
+      "ejemplos": [
+        [
+          "Si x + 2 < 7, entonces x puede ser 1, 2, 3 o 4.",
+          "Se resta 2 en ambos lados: x < 5."
+        ],
+        [
+          "Para entrar a una sala caben como máximo 20 personas.",
+          "Si hay x adentro, x ≤ 20 representa el máximo."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Una caja admite menos de 10 kg. Si ya tiene 6 kg, ¿cuántos kg adicionales enteros puede recibir como máximo?",
+          "3",
+          [
+            "4",
+            "5",
+            "6"
+          ],
+          "6 + x < 10, entonces x puede ser hasta 3.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "¿Qué número verifica la inecuación x + 4 < 12?",
+          "7",
+          [
+            "8",
+            "9",
+            "12"
+          ],
+          "7 + 4 = 11, menor que 12.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "Una fila debe tener más de 15 y menos de 19 estudiantes. ¿Qué cantidad cumple ambas condiciones?",
+          "17",
+          [
+            "14",
+            "20",
+            "19"
+          ],
+          "15 < 17 < 19.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "Un ascensor admite hasta 8 personas. Si hay x personas, ¿qué condición expresa el límite?",
+          "x ≤ 8",
+          [
+            "x > 8",
+            "x = 9",
+            "x ≥ 9"
+          ],
+          "El máximo permite ocho o menos.",
+          "OA14",
+          "verbal"
+        ],
+        [
+          "En el plato A hay 2 + x fichas y en el B 9. ¿Qué x hace que A tenga menos fichas?",
+          "6",
+          [
+            "7",
+            "8",
+            "9"
+          ],
+          "2 + 6 = 8 < 9.",
+          "OA14",
+          "visual"
+        ],
+        [
+          "Se necesitan al menos 12 puntos para recibir una estrella. ¿Qué puntaje satisface la regla?",
+          "12",
+          [
+            "10",
+            "11",
+            "9"
+          ],
+          "Al menos incluye el número 12.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "La expresión 4 + x > 10 requiere que x sea…",
+          "mayor que 6",
+          [
+            "igual a 6",
+            "menor que 6",
+            "igual a 2"
+          ],
+          "Restando 4 resulta x > 6.",
+          "OA14",
+          "verbal"
+        ],
+        [
+          "Si 18 − x < 13, ¿cuál valor hace verdadera la desigualdad?",
+          "6",
+          [
+            "3",
+            "4",
+            "5"
+          ],
+          "18 − 6 = 12, que es menor que 13.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "Una cinta debe medir menos de 30 cm. Si ya mide 22 cm, ¿qué extensión entera permite seguir bajo 30?",
+          "7 cm",
+          [
+            "8 cm",
+            "9 cm",
+            "10 cm"
+          ],
+          "22 + 7 = 29 < 30.",
+          "OA14",
+          "numerica"
+        ],
+        [
+          "En una carrera se clasifica con tiempo igual o menor a 25 minutos. ¿Qué tiempo clasifica?",
+          "24 min",
+          [
+            "26 min",
+            "27 min",
+            "30 min"
+          ],
+          "24 es menor que 25, así que cumple el límite.",
+          "OA14",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 5,
+      "c": 6,
+      "titulo": "Mover figuras y reconocer simetrías",
+      "oa": "OA17",
+      "ejemplos": [
+        [
+          "Dobla un cuadrado por la mitad vertical.",
+          "Las dos partes coinciden: esa recta es un eje de simetría."
+        ],
+        [
+          "Una flecha mira al norte y gira 180°.",
+          "Queda apuntando al sur: es media vuelta."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Una mariposa tiene alas iguales a ambos lados de su cuerpo. ¿Qué concepto ilustra?",
+          "simetría",
+          [
+            "área",
+            "división",
+            "fracción"
+          ],
+          "Una línea central divide dos mitades que coinciden.",
+          "OA17",
+          "visual"
+        ],
+        [
+          "Una flecha apunta a la derecha → y gira 180°. ¿Hacia dónde apunta después?",
+          "hacia la izquierda",
+          [
+            "hacia arriba",
+            "hacia abajo",
+            "hacia la derecha"
+          ],
+          "Un giro de 180° invierte la orientación.",
+          "OA18",
+          "visual"
+        ],
+        [
+          "Una figura se desliza 4 espacios a la derecha sin girar. ¿Qué transformación ocurrió?",
+          "traslación",
+          [
+            "reflexión",
+            "rotación",
+            "división"
+          ],
+          "Se desplaza sin cambiar de orientación.",
+          "OA18",
+          "visual"
+        ],
+        [
+          "Al reflejar la letra A mayúscula sobre una línea vertical por su centro, ¿qué sucede?",
+          "sus mitades coinciden",
+          [
+            "queda rotada 180°",
+            "aumenta de tamaño",
+            "se divide en tres"
+          ],
+          "La A mayúscula convencional posee simetría vertical.",
+          "OA17",
+          "numerica"
+        ],
+        [
+          "Un triángulo se ve reflejado como en un espejo. ¿Qué propiedad cambia?",
+          "la orientación izquierda-derecha",
+          [
+            "su número de vértices",
+            "su área",
+            "su número de lados"
+          ],
+          "Reflexión invierte la orientación respecto del eje.",
+          "OA18",
+          "visual"
+        ],
+        [
+          "¿Cuántas líneas de simetría tiene un rectángulo no cuadrado?",
+          "2",
+          [
+            "1",
+            "3",
+            "4"
+          ],
+          "Una horizontal y una vertical.",
+          "OA17",
+          "numerica"
+        ],
+        [
+          "Una rueda gira media vuelta. ¿A cuántos grados corresponde?",
+          "180°",
+          [
+            "90°",
+            "45°",
+            "360°"
+          ],
+          "Media vuelta es 180°.",
+          "OA18",
+          "numerica"
+        ],
+        [
+          "Un dibujo tiene su mitad izquierda y derecha exactamente iguales. ¿Dónde está su eje de simetría?",
+          "en el centro, vertical",
+          [
+            "en el borde inferior",
+            "fuera del dibujo",
+            "en un vértice"
+          ],
+          "La recta vertical central refleja ambos lados.",
+          "OA17",
+          "visual"
+        ],
+        [
+          "Una hoja se mueve hacia abajo manteniendo su posición de frente. ¿Qué transformación es?",
+          "traslación",
+          [
+            "giro de 180°",
+            "reflexión",
+            "simetría axial"
+          ],
+          "Se traslada de un lugar a otro.",
+          "OA18",
+          "numerica"
+        ],
+        [
+          "Un cuadrado tiene cuatro líneas que lo dividen en mitades reflejadas. ¿Cuál cantidad es correcta?",
+          "4",
+          [
+            "1",
+            "2",
+            "3"
+          ],
+          "Dos medianas y dos diagonales son ejes de simetría.",
+          "OA17",
+          "numerica"
+        ]
+      ]
+    },
+    {
+      "u": 5,
+      "c": 7,
+      "titulo": "Medir para construir",
+      "oa": "OA22",
+      "ejemplos": [
+        [
+          "Una cuerda mide 3 m. ¿Cuántos cm son?",
+          "3 × 100 = 300 cm; 1 m = 100 cm."
+        ],
+        [
+          "Una baldosa rectangular tiene lados de 4 cm y 3 cm.",
+          "Su área es 4 × 3 = 12 cm²."
+        ]
+      ],
+      "preguntas": [
+        [
+          "Una cinta de 5 metros se expresa en centímetros como…",
+          "500 cm",
+          [
+            "50 cm",
+            "5 cm",
+            "5.000 cm"
+          ],
+          "5 × 100 = 500.",
+          "OA22",
+          "numerica"
+        ],
+        [
+          "El ancho de una mesa es 80 cm. ¿Cuántos centímetros faltan para completar 1 m?",
+          "20 cm",
+          [
+            "10 cm",
+            "30 cm",
+            "80 cm"
+          ],
+          "100 − 80 = 20.",
+          "OA22",
+          "numerica"
+        ],
+        [
+          "Un huerto rectangular mide 7 m de largo y 4 m de ancho. ¿Cuál es su área?",
+          "28 m²",
+          [
+            "22 m²",
+            "11 m²",
+            "14 m²"
+          ],
+          "Área = largo × ancho = 7 × 4.",
+          "OA23",
+          "numerica"
+        ],
+        [
+          "Una plaza cuadrada tiene 6 m de lado. ¿Cuántos m² ocupa?",
+          "36 m²",
+          [
+            "24 m²",
+            "12 m²",
+            "18 m²"
+          ],
+          "6 × 6 = 36.",
+          "OA23",
+          "numerica"
+        ],
+        [
+          "Una regla de 30 cm y otra de 45 cm se ponen en línea. ¿Qué longitud total tienen?",
+          "75 cm",
+          [
+            "65 cm",
+            "85 cm",
+            "15 cm"
+          ],
+          "30 + 45 = 75.",
+          "OA22",
+          "numerica"
+        ],
+        [
+          "Una pared de 12 m² mide 3 m de alto. ¿Cuánto mide de ancho si es rectangular?",
+          "4 m",
+          [
+            "6 m",
+            "9 m",
+            "36 m"
+          ],
+          "12 ÷ 3 = 4.",
+          "OA23",
+          "numerica"
+        ],
+        [
+          "¿Qué unidad usarías para medir el largo de un pasillo escolar?",
+          "metros",
+          [
+            "kilogramos",
+            "litros",
+            "grados"
+          ],
+          "El metro mide longitudes grandes.",
+          "OA22",
+          "verbal"
+        ],
+        [
+          "Un cartel rectangular tiene 24 cm² de área y 8 cm de ancho. ¿Qué alto tiene?",
+          "3 cm",
+          [
+            "4 cm",
+            "16 cm",
+            "32 cm"
+          ],
+          "24 ÷ 8 = 3.",
+          "OA23",
+          "numerica"
+        ],
+        [
+          "Un trozo de cordón mide 250 cm. ¿Qué expresión equivalente es correcta?",
+          "2 m y 50 cm",
+          [
+            "25 m",
+            "2 m y 5 cm",
+            "20 m y 50 cm"
+          ],
+          "200 cm son 2 m; sobran 50 cm.",
+          "OA22",
+          "numerica"
+        ],
+        [
+          "Dos rectángulos miden 2 × 6 y 3 × 4 cm. ¿Qué tienen en común?",
+          "la misma área",
+          [
+            "el mismo alto",
+            "el mismo ancho",
+            "perímetros iguales"
+          ],
+          "Ambos ocupan 12 cm².",
+          "OA23",
+          "visual"
+        ]
+      ]
+    },
+    {
+      "u": 5,
+      "c": 8,
+      "titulo": "Leer gráficos y tomar decisiones",
+      "oa": "OA27",
+      "ejemplos": [
+        [
+          "Una tabla dice: lunes 3, martes 5, miércoles 2 libros.",
+          "El martes tuvo más libros leídos."
+        ],
+        [
+          "En un pictograma una ★ representa 2 votos.",
+          "Cuatro estrellas representan 4 × 2 = 8 votos."
+        ]
+      ],
+      "preguntas": [
+        [
+          "En la encuesta: manzana 8, pera 5, plátano 6 votos. ¿Cuál fruta fue preferida?",
+          "manzana",
+          [
+            "pera",
+            "plátano",
+            "empate"
+          ],
+          "La mayor frecuencia es 8.",
+          "OA27",
+          "numerica"
+        ],
+        [
+          "En un pictograma cada ● representa 3 bicicletas. Una fila tiene ●●●●. ¿Cuántas bicicletas son?",
+          "12",
+          [
+            "4",
+            "7",
+            "16"
+          ],
+          "Cuatro símbolos por tres bicicletas.",
+          "OA27",
+          "visual"
+        ],
+        [
+          "Un gráfico de barras registra 12 estudiantes en ajedrez y 9 en pintura. ¿Cuál es la diferencia?",
+          "3",
+          [
+            "2",
+            "4",
+            "21"
+          ],
+          "12 − 9 = 3.",
+          "OA27",
+          "numerica"
+        ],
+        [
+          "Una tabla anota lluvia en días: lunes 4, martes 0, miércoles 7 mm. ¿Qué día llovió más?",
+          "miércoles",
+          [
+            "lunes",
+            "martes",
+            "todos igual"
+          ],
+          "7 mm es el máximo.",
+          "OA27",
+          "numerica"
+        ],
+        [
+          "Los votos fueron: rojo 6, azul 10, verde 4. ¿Cuántos votos hubo en total?",
+          "20",
+          [
+            "16",
+            "18",
+            "24"
+          ],
+          "6 + 10 + 4 = 20.",
+          "OA27",
+          "numerica"
+        ],
+        [
+          "Cada dibujo de pez vale 5 peces. En la columna hay 3 dibujos. ¿Cuál es la lectura correcta?",
+          "15 peces",
+          [
+            "3 peces",
+            "8 peces",
+            "20 peces"
+          ],
+          "Escala: tres pictogramas por cinco.",
+          "OA27",
+          "visual"
+        ],
+        [
+          "Un gráfico muestra 7 personas que usan bus y 14 que caminan. ¿Qué conclusión está respaldada?",
+          "el doble camina",
+          [
+            "más personas usan bus",
+            "nadie camina",
+            "la mitad camina"
+          ],
+          "14 es el doble de 7.",
+          "OA27",
+          "verbal"
+        ],
+        [
+          "En la tabla de reciclaje: papel 18 kg, vidrio 12 kg, plástico 9 kg. ¿Cuánto suman papel y vidrio?",
+          "30 kg",
+          [
+            "21 kg",
+            "39 kg",
+            "27 kg"
+          ],
+          "18 + 12 = 30.",
+          "OA27",
+          "numerica"
+        ],
+        [
+          "Las barras de una encuesta miden 4, 7, 7 y 2. ¿Qué afirmación es correcta?",
+          "dos categorías empatan en 7",
+          [
+            "la última tiene más",
+            "todas tienen 7",
+            "ninguna empata"
+          ],
+          "La segunda y la tercera tienen igual altura.",
+          "OA27",
+          "visual"
+        ],
+        [
+          "Un pictograma usa 2 símbolos para lunes y 5 para viernes, con 4 libros por símbolo. ¿Cuántos libros más representa viernes?",
+          "12",
+          [
+            "3",
+            "7",
+            "20"
+          ],
+          "(5 − 2) × 4 = 12.",
+          "OA27",
+          "visual"
+        ]
+      ]
+    }
+  ],
+  "preguntas": [
+    {
+      "codigo": "V14-U1C4Q1",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 1,
+      "enunciado": "Un cartel municipal dice 4.206 habitantes. ¿Cómo se escribe en palabras?",
+      "respuesta": "cuatro mil doscientos seis",
+      "incorrectas": [
+        "cuatro mil veintiséis",
+        "cuatro mil sesenta y dos",
+        "cuatrocientos veintiséis"
+      ],
+      "explicacion": "Se separan millares, centenas y unidades.",
+      "oa": "OA1",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U1C4Q2",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 2,
+      "enunciado": "En una etiqueta aparece «siete mil cuarenta y tres». ¿Cuál es su escritura en cifras?",
+      "respuesta": "7.043",
+      "incorrectas": [
+        "7.403",
+        "7.430",
+        "743"
+      ],
+      "explicacion": "Siete miles, cuatro decenas y tres unidades.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q3",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 3,
+      "enunciado": "En un registro hay 3.412 y 3.421. ¿Cuál corresponde a la cantidad mayor?",
+      "respuesta": "3.421",
+      "incorrectas": [
+        "3.412"
+      ],
+      "explicacion": "Miles y centenas iguales; 2 decenas supera 1 decena.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q4",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 4,
+      "enunciado": "Una caja registradora muestra 6.583. ¿Qué valor tiene el dígito [[5]] destacado?",
+      "respuesta": "500",
+      "incorrectas": [
+        "5",
+        "50",
+        "5.000"
+      ],
+      "explicacion": "El 5 está en el lugar de las centenas.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q5",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 5,
+      "enunciado": "La combinación de 8 millares, 2 centenas y 7 unidades forma el número…",
+      "respuesta": "8.207",
+      "incorrectas": [
+        "8.270",
+        "8.027",
+        "8.720"
+      ],
+      "explicacion": "8.000 + 200 + 7 = 8.207.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q6",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 6,
+      "enunciado": "En la recta numérica: 1.000 → 2.000 → 3.000 → ____. ¿Qué número sigue?",
+      "respuesta": "4.000",
+      "incorrectas": [
+        "3.100",
+        "5.000",
+        "3.010"
+      ],
+      "explicacion": "La separación es de mil unidades.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q7",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 7,
+      "enunciado": "Un cajero entrega 3 billetes de $1.000 y 4 de $100. ¿Cuánto dinero entrega?",
+      "respuesta": "$3.400",
+      "incorrectas": [
+        "$3.040",
+        "$4.300",
+        "$7.000"
+      ],
+      "explicacion": "Tres millares y cuatro centenas suman $3.400.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q8",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 8,
+      "enunciado": "Una clave es mayor que 5.099 y menor que 5.102. ¿Cuál de estos números cumple?",
+      "respuesta": "5.100",
+      "incorrectas": [
+        "5.098",
+        "5.103",
+        "5.090"
+      ],
+      "explicacion": "5.100 está dentro del intervalo indicado.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q9",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 9,
+      "enunciado": "La máquina separó 9.061 en bloques: 9.000 + ____ + 1. ¿Qué falta?",
+      "respuesta": "60",
+      "incorrectas": [
+        "600",
+        "6",
+        "6000"
+      ],
+      "explicacion": "9.061 = 9.000 + 60 + 1.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C4Q10",
+      "unidad": 1,
+      "conjunto": "U1-C04",
+      "orden": 10,
+      "enunciado": "Entre 7.099 y 7.101 hay exactamente un entero. ¿Cuál es?",
+      "respuesta": "7.100",
+      "incorrectas": [
+        "7.090",
+        "7.110",
+        "7.200"
+      ],
+      "explicacion": "El sucesor de 7.099 es 7.100.",
+      "oa": "OA1",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q1",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 1,
+      "enunciado": "En una campaña juntaron 248 tapitas el lunes y 173 el martes. ¿Cuántas reunieron?",
+      "respuesta": "421",
+      "incorrectas": [
+        "411",
+        "321",
+        "431"
+      ],
+      "explicacion": "248 + 173 = 421.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q2",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 2,
+      "enunciado": "El museo recibió 125 visitas en la mañana, 86 al mediodía y 104 en la tarde. ¿Total de visitas?",
+      "respuesta": "315",
+      "incorrectas": [
+        "305",
+        "325",
+        "415"
+      ],
+      "explicacion": "125 + 86 + 104 = 315.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q3",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 3,
+      "enunciado": "Una familia ahorró $370 y luego otros $290. ¿Cuánto acumula?",
+      "respuesta": "$660",
+      "incorrectas": [
+        "$560",
+        "$670",
+        "$760"
+      ],
+      "explicacion": "370 + 290 = 660.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q4",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 4,
+      "enunciado": "En un taller habían 398 piezas y llegan 101. Sin hacer el algoritmo completo, ¿cuál es la mejor estimación?",
+      "respuesta": "cerca de 500",
+      "incorrectas": [
+        "cerca de 200",
+        "cerca de 800",
+        "cerca de 1.000"
+      ],
+      "explicacion": "398 se aproxima a 400 y 101 a 100.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q5",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 5,
+      "enunciado": "Un marcador muestra 169 puntos. El equipo obtiene 47 más. ¿Cuál es el nuevo puntaje?",
+      "respuesta": "216",
+      "incorrectas": [
+        "206",
+        "226",
+        "116"
+      ],
+      "explicacion": "169 + 47 = 216.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q6",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 6,
+      "enunciado": "Para equipar una sala se compran 234 lápices, 156 gomas y 110 reglas. ¿Cuántos objetos son?",
+      "respuesta": "500",
+      "incorrectas": [
+        "490",
+        "400",
+        "510"
+      ],
+      "explicacion": "234 + 156 + 110 = 500.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q7",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 7,
+      "enunciado": "Una colecta reunió 75 monedas, después 125 y finalmente 50. ¿Qué total tiene?",
+      "respuesta": "250",
+      "incorrectas": [
+        "225",
+        "200",
+        "275"
+      ],
+      "explicacion": "75 + 125 + 50 = 250.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q8",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 8,
+      "enunciado": "Un catálogo registra 397 láminas y recibe 203 nuevas. ¿Qué suma permite completar la centena?",
+      "respuesta": "397 + 203 = 600",
+      "incorrectas": [
+        "397 + 203 = 500",
+        "397 + 203 = 590",
+        "397 + 203 = 700"
+      ],
+      "explicacion": "397 necesita 3 para 400 y sobran 200: 600.",
+      "oa": "OA3",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U1C5Q9",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 9,
+      "enunciado": "La profesora corrige 128 pruebas, luego 99 y después 73. ¿Cuántas corrige en total?",
+      "respuesta": "300",
+      "incorrectas": [
+        "290",
+        "310",
+        "400"
+      ],
+      "explicacion": "128 + 99 + 73 = 300.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C5Q10",
+      "unidad": 1,
+      "conjunto": "U1-C05",
+      "orden": 10,
+      "enunciado": "En la ruta escolar suben 17 niños y ya viajaban 28. Luego suben 15 más. ¿Cuántos van ahora?",
+      "respuesta": "60",
+      "incorrectas": [
+        "50",
+        "55",
+        "70"
+      ],
+      "explicacion": "28 + 17 + 15 = 60.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q1",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 1,
+      "enunciado": "En un huerto había 825 semillas; se sembraron 348. ¿Cuántas quedan?",
+      "respuesta": "477",
+      "incorrectas": [
+        "487",
+        "577",
+        "467"
+      ],
+      "explicacion": "825 - 348 = 477.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q2",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 2,
+      "enunciado": "Un teatro tiene 600 asientos; 275 están ocupados. ¿Cuántos están libres?",
+      "respuesta": "325",
+      "incorrectas": [
+        "375",
+        "225",
+        "425"
+      ],
+      "explicacion": "600 - 275 = 325.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q3",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 3,
+      "enunciado": "Una excursión cuesta $940 y Ana posee $685. ¿Cuánto le falta?",
+      "respuesta": "$255",
+      "incorrectas": [
+        "$245",
+        "$265",
+        "$355"
+      ],
+      "explicacion": "940 - 685 = 255.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q4",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 4,
+      "enunciado": "El contador de bicicletas pasa de 704 a 389 tras una revisión. ¿Cuál fue la disminución?",
+      "respuesta": "315",
+      "incorrectas": [
+        "325",
+        "305",
+        "415"
+      ],
+      "explicacion": "704 - 389 = 315.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q5",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 5,
+      "enunciado": "Una biblioteca tenía 500 revistas; prestó 96. ¿Qué estimación es más razonable?",
+      "respuesta": "quedan cerca de 400",
+      "incorrectas": [
+        "quedan cerca de 100",
+        "quedan cerca de 50",
+        "quedan cerca de 600"
+      ],
+      "explicacion": "500 - 100 ≈ 400.",
+      "oa": "OA3",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U1C6Q6",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 6,
+      "enunciado": "De 730 metros de sendero, se han reparado 485. ¿Qué longitud queda por reparar?",
+      "respuesta": "245 m",
+      "incorrectas": [
+        "255 m",
+        "345 m",
+        "235 m"
+      ],
+      "explicacion": "730 - 485 = 245.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q7",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 7,
+      "enunciado": "Hay 423 entradas. Se venden 180 y luego otras 70. ¿Cuántas sobran?",
+      "respuesta": "173",
+      "incorrectas": [
+        "183",
+        "273",
+        "163"
+      ],
+      "explicacion": "423 - 180 - 70 = 173.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q8",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 8,
+      "enunciado": "Para llegar a 900 puntos, una jugadora que tiene 639 necesita…",
+      "respuesta": "261",
+      "incorrectas": [
+        "271",
+        "161",
+        "361"
+      ],
+      "explicacion": "900 - 639 = 261.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q9",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 9,
+      "enunciado": "Un tanque tiene 780 litros; se usan 125 y después 225. ¿Cuántos litros quedan?",
+      "respuesta": "430",
+      "incorrectas": [
+        "440",
+        "530",
+        "330"
+      ],
+      "explicacion": "780 - 125 - 225 = 430.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U1C6Q10",
+      "unidad": 1,
+      "conjunto": "U1-C06",
+      "orden": 10,
+      "enunciado": "El gráfico de ventas indica 250 en junio y 187 en julio. ¿Cuántas ventas menos hubo en julio?",
+      "respuesta": "63",
+      "incorrectas": [
+        "73",
+        "53",
+        "437"
+      ],
+      "explicacion": "250 - 187 = 63.",
+      "oa": "OA3",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q1",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 1,
+      "enunciado": "Un vivero prepara 123 plantitas en cada una de 3 mesas. ¿Cuántas hay?",
+      "respuesta": "369",
+      "incorrectas": [
+        "366",
+        "359",
+        "469"
+      ],
+      "explicacion": "123 × 3 = 369.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q2",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 2,
+      "enunciado": "Cada página de un álbum tiene 24 casillas. Si hay 4 páginas, ¿cuántas casillas?",
+      "respuesta": "96",
+      "incorrectas": [
+        "84",
+        "106",
+        "86"
+      ],
+      "explicacion": "24 × 4 = 96.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q3",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 3,
+      "enunciado": "Para calcular 36 × 5 sin calculadora, ¿qué descomposición es correcta?",
+      "respuesta": "(30 × 5) + (6 × 5)",
+      "incorrectas": [
+        "30 + 6 × 5",
+        "(30 × 6) + 5",
+        "36 + 5"
+      ],
+      "explicacion": "Se distribuye la multiplicación en decenas y unidades.",
+      "oa": "OA5",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U2C4Q4",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 4,
+      "enunciado": "Una imprenta empaqueta 215 folletos por caja. Con 4 cajas, ¿cuántos folletos?",
+      "respuesta": "860",
+      "incorrectas": [
+        "840",
+        "960",
+        "760"
+      ],
+      "explicacion": "215 × 4 = 860.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q5",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 5,
+      "enunciado": "Se colocan 6 filas de 18 macetas. ¿Cuál operación representa el arreglo?",
+      "respuesta": "6 × 18",
+      "incorrectas": [
+        "6 + 18",
+        "18 − 6",
+        "18 ÷ 6"
+      ],
+      "explicacion": "Filas por elementos de cada fila.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q6",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 6,
+      "enunciado": "El precio de un cuaderno es $145. ¿Cuánto cuestan 3 cuadernos?",
+      "respuesta": "$435",
+      "incorrectas": [
+        "$445",
+        "$335",
+        "$535"
+      ],
+      "explicacion": "145 × 3 = 435.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q7",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 7,
+      "enunciado": "Una corredora da 4 vueltas de 125 m cada una. ¿Qué distancia recorre?",
+      "respuesta": "500 m",
+      "incorrectas": [
+        "450 m",
+        "400 m",
+        "525 m"
+      ],
+      "explicacion": "125 × 4 = 500.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q8",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 8,
+      "enunciado": "¿Qué estimación se acerca más a 198 × 3?",
+      "respuesta": "600",
+      "incorrectas": [
+        "300",
+        "900",
+        "200"
+      ],
+      "explicacion": "198 ≈ 200, luego 200 × 3 = 600.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q9",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 9,
+      "enunciado": "Dos bandejas tienen 307 semillas cada una. ¿Cuál es el total?",
+      "respuesta": "614",
+      "incorrectas": [
+        "604",
+        "714",
+        "612"
+      ],
+      "explicacion": "307 × 2 = 614.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C4Q10",
+      "unidad": 2,
+      "conjunto": "U2-C04",
+      "orden": 10,
+      "enunciado": "Una panadería hornea 112 panes por tanda y realiza 5 tandas. ¿Cuántos panes?",
+      "respuesta": "560",
+      "incorrectas": [
+        "550",
+        "570",
+        "460"
+      ],
+      "explicacion": "112 × 5 = 560.",
+      "oa": "OA5",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q1",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 1,
+      "enunciado": "La biblioteca reparte 72 marcapáginas en 8 grupos iguales. ¿Cuántos recibe cada grupo?",
+      "respuesta": "9",
+      "incorrectas": [
+        "8",
+        "7",
+        "10"
+      ],
+      "explicacion": "72 ÷ 8 = 9.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q2",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 2,
+      "enunciado": "Una tienda distribuye 63 pelotas en 7 canastos iguales. ¿Cuántas por canasto?",
+      "respuesta": "9",
+      "incorrectas": [
+        "8",
+        "7",
+        "6"
+      ],
+      "explicacion": "63 ÷ 7 = 9.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q3",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 3,
+      "enunciado": "Para comprobar 54 ÷ 6 = 9, ¿qué multiplicación corresponde?",
+      "respuesta": "9 × 6 = 54",
+      "incorrectas": [
+        "6 × 6 = 54",
+        "9 × 9 = 54",
+        "54 × 6 = 9"
+      ],
+      "explicacion": "La multiplicación es inversa de la división.",
+      "oa": "OA6",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U2C5Q4",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 4,
+      "enunciado": "Se forman paquetes de 5 pegatinas con 45 pegatinas. ¿Cuántos paquetes completos?",
+      "respuesta": "9",
+      "incorrectas": [
+        "8",
+        "7",
+        "10"
+      ],
+      "explicacion": "45 ÷ 5 = 9.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q5",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 5,
+      "enunciado": "El capitán tiene 84 fichas para 7 integrantes. ¿Cuántas recibe cada integrante?",
+      "respuesta": "12",
+      "incorrectas": [
+        "11",
+        "13",
+        "14"
+      ],
+      "explicacion": "84 ÷ 7 = 12.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q6",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 6,
+      "enunciado": "Un huerto divide 96 semillas en 8 surcos iguales. ¿Cuántas por surco?",
+      "respuesta": "12",
+      "incorrectas": [
+        "10",
+        "14",
+        "16"
+      ],
+      "explicacion": "96 ÷ 8 = 12.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q7",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 7,
+      "enunciado": "Si 42 sillas se reparten en 6 filas iguales, ¿qué expresión resuelve el problema?",
+      "respuesta": "42 ÷ 6",
+      "incorrectas": [
+        "42 × 6",
+        "42 + 6",
+        "42 − 6"
+      ],
+      "explicacion": "Se divide el total en grupos iguales.",
+      "oa": "OA6",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U2C5Q8",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 8,
+      "enunciado": "Una caja de 75 libros se reparte entre 5 aulas. ¿Cuántos libros recibe cada aula?",
+      "respuesta": "15",
+      "incorrectas": [
+        "10",
+        "12",
+        "20"
+      ],
+      "explicacion": "75 ÷ 5 = 15.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q9",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 9,
+      "enunciado": "Para hallar 68 ÷ 4, separa 68 en 40 y 28. ¿Qué cociente se obtiene?",
+      "respuesta": "17",
+      "incorrectas": [
+        "14",
+        "15",
+        "18"
+      ],
+      "explicacion": "40 ÷ 4 + 28 ÷ 4 = 10 + 7 = 17.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C5Q10",
+      "unidad": 2,
+      "conjunto": "U2-C05",
+      "orden": 10,
+      "enunciado": "Hay 81 postales para 9 expositores. ¿Cuántas postales recibe cada uno?",
+      "respuesta": "9",
+      "incorrectas": [
+        "7",
+        "8",
+        "10"
+      ],
+      "explicacion": "81 ÷ 9 = 9.",
+      "oa": "OA6",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q1",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 1,
+      "enunciado": "Tomás compra un jugo de $420 y un pan de $350. ¿Cuál es el costo total?",
+      "respuesta": "$770",
+      "incorrectas": [
+        "$670",
+        "$870",
+        "$760"
+      ],
+      "explicacion": "420 + 350 = 770.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q2",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 2,
+      "enunciado": "Un boleto cuesta $180. ¿Cuánto cuestan cuatro boletos?",
+      "respuesta": "$720",
+      "incorrectas": [
+        "$620",
+        "$740",
+        "$820"
+      ],
+      "explicacion": "180 × 4 = 720.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q3",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 3,
+      "enunciado": "Pagas $1.000 por una fruta que cuesta $675. ¿Cuál es tu vuelto?",
+      "respuesta": "$325",
+      "incorrectas": [
+        "$225",
+        "$335",
+        "$425"
+      ],
+      "explicacion": "1.000 − 675 = 325.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q4",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 4,
+      "enunciado": "Un grupo reúne $900 para comprar 3 juegos iguales. ¿Cuánto puede costar cada juego?",
+      "respuesta": "$300",
+      "incorrectas": [
+        "$200",
+        "$400",
+        "$600"
+      ],
+      "explicacion": "900 ÷ 3 = 300.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q5",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 5,
+      "enunciado": "Martina lleva $800. Compra un lápiz de $250 y un borrador de $180. ¿Cuánto conserva?",
+      "respuesta": "$370",
+      "incorrectas": [
+        "$430",
+        "$470",
+        "$270"
+      ],
+      "explicacion": "800 − 250 − 180 = 370.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q6",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 6,
+      "enunciado": "Una colación cuesta $240. ¿Qué operación permite saber el costo de cinco colaciones?",
+      "respuesta": "240 × 5",
+      "incorrectas": [
+        "240 ÷ 5",
+        "240 − 5",
+        "240 + 5"
+      ],
+      "explicacion": "El mismo precio se repite cinco veces.",
+      "oa": "OA7",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U2C6Q7",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 7,
+      "enunciado": "Dos billetes de $1.000 y tres monedas de $100 representan…",
+      "respuesta": "$2.300",
+      "incorrectas": [
+        "$2.030",
+        "$3.200",
+        "$2.130"
+      ],
+      "explicacion": "2.000 + 300 = 2.300.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q8",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 8,
+      "enunciado": "Entre una mochila de $890 y una de $970, ¿cuál es la diferencia de precio?",
+      "respuesta": "$80",
+      "incorrectas": [
+        "$70",
+        "$90",
+        "$180"
+      ],
+      "explicacion": "970 − 890 = 80.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q9",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 9,
+      "enunciado": "Alicia tenía $950, recibió $200 y gastó $480. ¿Cuánto tiene?",
+      "respuesta": "$670",
+      "incorrectas": [
+        "$570",
+        "$770",
+        "$680"
+      ],
+      "explicacion": "950 + 200 − 480 = 670.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U2C6Q10",
+      "unidad": 2,
+      "conjunto": "U2-C06",
+      "orden": 10,
+      "enunciado": "Se compraron 6 lápices por $720 en total. ¿Cuánto costó cada lápiz?",
+      "respuesta": "$120",
+      "incorrectas": [
+        "$100",
+        "$140",
+        "$160"
+      ],
+      "explicacion": "720 ÷ 6 = 120.",
+      "oa": "OA7",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C4Q1",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 1,
+      "enunciado": "Un círculo está dividido en 6 partes iguales; 2 están pintadas. ¿Qué fracción está pintada?",
+      "respuesta": "2/6",
+      "incorrectas": [
+        "6/2",
+        "2/5",
+        "1/6"
+      ],
+      "explicacion": "Dos partes seleccionadas entre seis iguales.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C4Q2",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 2,
+      "enunciado": "En una bandeja hay 10 frutas y 4 son peras. ¿Qué fracción de las frutas son peras?",
+      "respuesta": "4/10",
+      "incorrectas": [
+        "10/4",
+        "6/10",
+        "4/6"
+      ],
+      "explicacion": "Cuatro elementos de diez.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C4Q3",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 3,
+      "enunciado": "Una cinta se divide en 8 segmentos iguales; 5 llevan un círculo. ¿Qué fracción representa los marcados?",
+      "respuesta": "5/8",
+      "incorrectas": [
+        "3/8",
+        "8/5",
+        "5/6"
+      ],
+      "explicacion": "Numerador: marcados; denominador: segmentos.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C4Q4",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 4,
+      "enunciado": "Una receta necesita 1/4 de taza de agua. ¿Qué significa el 4?",
+      "respuesta": "cuatro partes iguales del total",
+      "incorrectas": [
+        "cuatro tazas completas",
+        "cuatro ingredientes",
+        "cuatro cucharadas extras"
+      ],
+      "explicacion": "El denominador cuenta las partes iguales del todo.",
+      "oa": "OA8",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U3C4Q5",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 5,
+      "enunciado": "En una caja con 12 lápices, 3 son verdes. ¿Qué fracción expresa los lápices verdes?",
+      "respuesta": "3/12",
+      "incorrectas": [
+        "3/9",
+        "12/3",
+        "9/12"
+      ],
+      "explicacion": "3 de 12 lápices.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C4Q6",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 6,
+      "enunciado": "En una recta de 0 a 1 dividida en 5 partes iguales, el tercer punto indica…",
+      "respuesta": "3/5",
+      "incorrectas": [
+        "5/3",
+        "2/5",
+        "3/4"
+      ],
+      "explicacion": "Se cuentan tres quintos desde cero.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C4Q7",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 7,
+      "enunciado": "Una pizza tiene 8 rebanadas iguales y quedan 3. ¿Qué fracción de pizza queda?",
+      "respuesta": "3/8",
+      "incorrectas": [
+        "5/8",
+        "8/3",
+        "3/5"
+      ],
+      "explicacion": "Tres octavos permanecen.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C4Q8",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 8,
+      "enunciado": "¿Cuál es una situación que representa 1/2?",
+      "respuesta": "pintar 3 de 6 casillas iguales",
+      "incorrectas": [
+        "pintar 2 de 5",
+        "pintar 1 de 3",
+        "pintar 3 de 8"
+      ],
+      "explicacion": "3/6 es igual a la mitad.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C4Q9",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 9,
+      "enunciado": "De 20 canicas, 5 son amarillas. ¿Cuál representa esa parte del grupo?",
+      "respuesta": "5/20",
+      "incorrectas": [
+        "20/5",
+        "15/20",
+        "5/15"
+      ],
+      "explicacion": "5 de 20 canicas.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C4Q10",
+      "unidad": 3,
+      "conjunto": "U3-C04",
+      "orden": 10,
+      "enunciado": "Una bandera tiene 3 franjas iguales y solo una es azul. ¿Qué fracción es azul?",
+      "respuesta": "1/3",
+      "incorrectas": [
+        "3/1",
+        "2/3",
+        "1/2"
+      ],
+      "explicacion": "Una franja de tres.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C5Q1",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 1,
+      "enunciado": "De dos barras iguales, una tiene 3/8 coloreados y otra 5/8. ¿Cuál tiene más?",
+      "respuesta": "5/8",
+      "incorrectas": [
+        "3/8"
+      ],
+      "explicacion": "Con igual denominador gana el mayor numerador.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C5Q2",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 2,
+      "enunciado": "Si una barra tiene 2/4 pintados, ¿qué fracción equivale a la misma cantidad?",
+      "respuesta": "1/2",
+      "incorrectas": [
+        "1/4",
+        "3/4",
+        "1/3"
+      ],
+      "explicacion": "Dos cuartos son una mitad.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q3",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 3,
+      "enunciado": "Una recta marca 1/5, 2/5, 3/5 y 4/5. ¿Cuál punto está más cerca de 1?",
+      "respuesta": "4/5",
+      "incorrectas": [
+        "1/5",
+        "2/5",
+        "3/5"
+      ],
+      "explicacion": "4/5 deja solo una quinta parte hasta 1.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C5Q4",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 4,
+      "enunciado": "Lucía consumió 1/3 de su chocolate y Leo 1/6 de otro igual. ¿Quién consumió más?",
+      "respuesta": "Lucía",
+      "incorrectas": [
+        "Leo"
+      ],
+      "explicacion": "Un tercio es mayor que un sexto.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q5",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 5,
+      "enunciado": "Una figura muestra 6 de 12 cuadros sombreados. ¿Qué fracción simplificada representa?",
+      "respuesta": "1/2",
+      "incorrectas": [
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "explicacion": "Seis de doce equivalen a la mitad.",
+      "oa": "OA8",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U3C5Q6",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 6,
+      "enunciado": "¿Qué fracción es mayor: 3/10 o 7/10?",
+      "respuesta": "7/10",
+      "incorrectas": [
+        "3/10"
+      ],
+      "explicacion": "Al dividir el mismo todo en diez partes, siete es más que tres.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q7",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 7,
+      "enunciado": "Un recipiente contiene 1/4 de litro y otro 1/2. ¿Qué recipiente contiene menos?",
+      "respuesta": "el de 1/4",
+      "incorrectas": [
+        "el de 1/2"
+      ],
+      "explicacion": "Un cuarto es menor que un medio.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q8",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 8,
+      "enunciado": "En un mosaico, 2/8 de las piezas son rojas. ¿Qué porcentaje del mosaico representa aproximadamente?",
+      "respuesta": "25%",
+      "incorrectas": [
+        "50%",
+        "75%",
+        "10%"
+      ],
+      "explicacion": "2/8 = 1/4 = 25%.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q9",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 9,
+      "enunciado": "Ordena las fracciones 1/8, 4/8 y 6/8 de menor a mayor.",
+      "respuesta": "1/8, 4/8, 6/8",
+      "incorrectas": [
+        "6/8, 4/8, 1/8",
+        "4/8, 1/8, 6/8",
+        "1/8, 6/8, 4/8"
+      ],
+      "explicacion": "Mismo denominador: ordenar numeradores.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C5Q10",
+      "unidad": 3,
+      "conjunto": "U3-C05",
+      "orden": 10,
+      "enunciado": "En dos caminos de igual longitud, se recorren 4/6 y 2/6. ¿Cuál distancia es menor?",
+      "respuesta": "2/6",
+      "incorrectas": [
+        "4/6"
+      ],
+      "explicacion": "Dos sextos es menos que cuatro sextos.",
+      "oa": "OA8",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q1",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 1,
+      "enunciado": "Una maqueta usa 2/6 de cartón rojo y 3/6 azul. ¿Qué fracción se ocupó?",
+      "respuesta": "5/6",
+      "incorrectas": [
+        "5/12",
+        "1/6",
+        "6/5"
+      ],
+      "explicacion": "Suma de sextos: 2+3 = 5.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q2",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 2,
+      "enunciado": "Un sendero tiene 9/12 señalizados. Se borran 4/12. ¿Qué fracción sigue señalizada?",
+      "respuesta": "5/12",
+      "incorrectas": [
+        "5/24",
+        "13/12",
+        "4/12"
+      ],
+      "explicacion": "9/12 − 4/12 = 5/12.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q3",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 3,
+      "enunciado": "En una jarra se vierten 1/4 y luego 2/4 de litro. ¿Cuánto se añadió en total?",
+      "respuesta": "3/4 L",
+      "incorrectas": [
+        "3/8 L",
+        "1/2 L",
+        "2/4 L"
+      ],
+      "explicacion": "Las partes son cuartos: 1 + 2 = 3.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q4",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 4,
+      "enunciado": "Se usaron 7/10 de una madeja de lana y se recuperaron 3/10. ¿Qué fracción sigue utilizada?",
+      "respuesta": "4/10",
+      "incorrectas": [
+        "10/10",
+        "4/20",
+        "3/10"
+      ],
+      "explicacion": "7/10 − 3/10 = 4/10.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q5",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 5,
+      "enunciado": "¿Qué operación representa juntar 2/5 de una tira con otros 2/5?",
+      "respuesta": "2/5 + 2/5 = 4/5",
+      "incorrectas": [
+        "2/5 + 2/5 = 4/10",
+        "2/5 + 2/5 = 2/10",
+        "2/5 + 2/5 = 0"
+      ],
+      "explicacion": "Se conserva el denominador común.",
+      "oa": "OA9",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U3C6Q6",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 6,
+      "enunciado": "Un álbum tenía 8/8 de páginas libres y se ocupan 5/8. ¿Qué parte queda libre?",
+      "respuesta": "3/8",
+      "incorrectas": [
+        "3/16",
+        "5/8",
+        "8/3"
+      ],
+      "explicacion": "8/8 − 5/8 = 3/8.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q7",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 7,
+      "enunciado": "En una carrera alguien corre 3/12 del trayecto, descansa y corre 4/12 más. ¿Qué parte recorrió?",
+      "respuesta": "7/12",
+      "incorrectas": [
+        "7/24",
+        "1/12",
+        "12/7"
+      ],
+      "explicacion": "3/12 + 4/12 = 7/12.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q8",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 8,
+      "enunciado": "Se pinta 4/8 de una pared y luego 1/8 adicional. ¿Qué fracción quedó pintada?",
+      "respuesta": "5/8",
+      "incorrectas": [
+        "4/16",
+        "3/8",
+        "1/2"
+      ],
+      "explicacion": "4/8 + 1/8 = 5/8.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q9",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 9,
+      "enunciado": "Una receta tenía 6/6 de harina y se utilizaron 2/6. ¿Qué fracción queda disponible?",
+      "respuesta": "4/6",
+      "incorrectas": [
+        "4/12",
+        "2/6",
+        "6/4"
+      ],
+      "explicacion": "6/6 − 2/6 = 4/6.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U3C6Q10",
+      "unidad": 3,
+      "conjunto": "U3-C06",
+      "orden": 10,
+      "enunciado": "Si de 11/12 de una figura sombreada borras 5/12, queda…",
+      "respuesta": "6/12",
+      "incorrectas": [
+        "6/24",
+        "5/12",
+        "16/12"
+      ],
+      "explicacion": "11/12 − 5/12 = 6/12.",
+      "oa": "OA9",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q1",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 1,
+      "enunciado": "Una escalera usa los números 14, 19, 24, 29. ¿Qué número iría después?",
+      "respuesta": "34",
+      "incorrectas": [
+        "30",
+        "33",
+        "39"
+      ],
+      "explicacion": "Se suma 5 cada vez.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q2",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 2,
+      "enunciado": "En una tabla: 2→8, 3→12, 5→20. ¿Qué salida corresponde a 6?",
+      "respuesta": "24",
+      "incorrectas": [
+        "22",
+        "18",
+        "30"
+      ],
+      "explicacion": "La regla es multiplicar por 4.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q3",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 3,
+      "enunciado": "Una máquina aplica “restar 7”. Si entra 32, ¿qué número sale?",
+      "respuesta": "25",
+      "incorrectas": [
+        "39",
+        "24",
+        "27"
+      ],
+      "explicacion": "32 − 7 = 25.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q4",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 4,
+      "enunciado": "La lista 4, 8, 12, 17, 20 tiene un error si la regla es sumar 4. ¿Qué número está mal?",
+      "respuesta": "17",
+      "incorrectas": [
+        "4",
+        "12",
+        "20"
+      ],
+      "explicacion": "Debería aparecer 16.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q5",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 5,
+      "enunciado": "En una hoja la secuencia es 90, 80, 70, __, 50. ¿Qué falta?",
+      "respuesta": "60",
+      "incorrectas": [
+        "65",
+        "40",
+        "75"
+      ],
+      "explicacion": "Disminuye 10 por paso.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q6",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 6,
+      "enunciado": "Cada cuadrado añade 3 fósforos: figura 1 = 4, figura 2 = 7. ¿Cuántos fósforos tendrá la figura 4?",
+      "respuesta": "13",
+      "incorrectas": [
+        "10",
+        "14",
+        "16"
+      ],
+      "explicacion": "4, 7, 10, 13.",
+      "oa": "OA13",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U4C4Q7",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 7,
+      "enunciado": "Una tabla multiplica por 5 el número de bolsas. Si hay 7 bolsas, ¿cuántas frutas hay?",
+      "respuesta": "35",
+      "incorrectas": [
+        "30",
+        "40",
+        "12"
+      ],
+      "explicacion": "7 × 5 = 35.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q8",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 8,
+      "enunciado": "Observa 5, 10, 20, 40. ¿Qué regla explica el patrón?",
+      "respuesta": "multiplicar por 2",
+      "incorrectas": [
+        "sumar 5",
+        "restar 2",
+        "multiplicar por 5"
+      ],
+      "explicacion": "Cada término es el doble.",
+      "oa": "OA13",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C4Q9",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 9,
+      "enunciado": "Una secuencia empieza en 48 y resta 6 cada vez. ¿Cuál es su cuarto término?",
+      "respuesta": "30",
+      "incorrectas": [
+        "36",
+        "24",
+        "42"
+      ],
+      "explicacion": "48, 42, 36, 30.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C4Q10",
+      "unidad": 4,
+      "conjunto": "U4-C04",
+      "orden": 10,
+      "enunciado": "En una tabla: día 1 = 3 plantas, día 2 = 6, día 3 = 9. Manteniendo la regla, ¿cuántas en día 6?",
+      "respuesta": "18",
+      "incorrectas": [
+        "15",
+        "21",
+        "12"
+      ],
+      "explicacion": "Tres plantas por día.",
+      "oa": "OA13",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q1",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 1,
+      "enunciado": "La suma de una cantidad desconocida y 9 es 24. ¿Cuánto vale la cantidad?",
+      "respuesta": "15",
+      "incorrectas": [
+        "13",
+        "16",
+        "33"
+      ],
+      "explicacion": "x + 9 = 24; x = 24 − 9.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q2",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 2,
+      "enunciado": "Una mochila con 18 objetos pierde x y quedan 11. ¿Cuánto se retiró?",
+      "respuesta": "7",
+      "incorrectas": [
+        "6",
+        "8",
+        "29"
+      ],
+      "explicacion": "18 − x = 11; x = 7.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q3",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 3,
+      "enunciado": "¿Cuál ecuación describe “un número aumentado en 12 es 30”?",
+      "respuesta": "x + 12 = 30",
+      "incorrectas": [
+        "x − 12 = 30",
+        "x + 30 = 12",
+        "12 − x = 30"
+      ],
+      "explicacion": "Aumentado en 12 significa sumar 12.",
+      "oa": "OA14",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C5Q4",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 4,
+      "enunciado": "En una balanza, una caja x y cuatro pesas suman 19. ¿Cuánto pesa la caja?",
+      "respuesta": "15",
+      "incorrectas": [
+        "13",
+        "16",
+        "23"
+      ],
+      "explicacion": "x + 4 = 19; x = 15.",
+      "oa": "OA14",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U4C5Q5",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 5,
+      "enunciado": "Un bus tenía x personas; bajaron 8 y quedaron 17. ¿Cuántas había al inicio?",
+      "respuesta": "25",
+      "incorrectas": [
+        "9",
+        "24",
+        "26"
+      ],
+      "explicacion": "x − 8 = 17; x = 25.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q6",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 6,
+      "enunciado": "Verifica cuál número cumple la ecuación x + 13 = 40.",
+      "respuesta": "27",
+      "incorrectas": [
+        "26",
+        "28",
+        "53"
+      ],
+      "explicacion": "27 + 13 = 40.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q7",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 7,
+      "enunciado": "El perímetro no se usa: en una bolsa hay x botones y se agregan 6 hasta tener 21. ¿Qué ecuación representa?",
+      "respuesta": "x + 6 = 21",
+      "incorrectas": [
+        "x − 6 = 21",
+        "x + 21 = 6",
+        "6 − x = 21"
+      ],
+      "explicacion": "Se agregan seis al valor inicial.",
+      "oa": "OA14",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C5Q8",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 8,
+      "enunciado": "Un número menos 14 es 35. ¿Cuál es ese número?",
+      "respuesta": "49",
+      "incorrectas": [
+        "21",
+        "45",
+        "51"
+      ],
+      "explicacion": "x − 14 = 35; x = 49.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C5Q9",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 9,
+      "enunciado": "En una tabla x + 7 = 32. ¿Qué operación inversa permite hallar x?",
+      "respuesta": "32 − 7",
+      "incorrectas": [
+        "32 + 7",
+        "32 × 7",
+        "7 − 32"
+      ],
+      "explicacion": "La resta deshace una suma.",
+      "oa": "OA14",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C5Q10",
+      "unidad": 4,
+      "conjunto": "U4-C05",
+      "orden": 10,
+      "enunciado": "Se compraron x tarjetas, se entregaron 15 y quedaron 42. ¿Cuántas se compraron?",
+      "respuesta": "57",
+      "incorrectas": [
+        "27",
+        "47",
+        "67"
+      ],
+      "explicacion": "x − 15 = 42; x = 57.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q1",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 1,
+      "enunciado": "Una caja admite menos de 10 kg. Si ya tiene 6 kg, ¿cuántos kg adicionales enteros puede recibir como máximo?",
+      "respuesta": "3",
+      "incorrectas": [
+        "4",
+        "5",
+        "6"
+      ],
+      "explicacion": "6 + x < 10, entonces x puede ser hasta 3.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q2",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 2,
+      "enunciado": "¿Qué número verifica la inecuación x + 4 < 12?",
+      "respuesta": "7",
+      "incorrectas": [
+        "8",
+        "9",
+        "12"
+      ],
+      "explicacion": "7 + 4 = 11, menor que 12.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q3",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 3,
+      "enunciado": "Una fila debe tener más de 15 y menos de 19 estudiantes. ¿Qué cantidad cumple ambas condiciones?",
+      "respuesta": "17",
+      "incorrectas": [
+        "14",
+        "20",
+        "19"
+      ],
+      "explicacion": "15 < 17 < 19.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q4",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 4,
+      "enunciado": "Un ascensor admite hasta 8 personas. Si hay x personas, ¿qué condición expresa el límite?",
+      "respuesta": "x ≤ 8",
+      "incorrectas": [
+        "x > 8",
+        "x = 9",
+        "x ≥ 9"
+      ],
+      "explicacion": "El máximo permite ocho o menos.",
+      "oa": "OA14",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C6Q5",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 5,
+      "enunciado": "En el plato A hay 2 + x fichas y en el B 9. ¿Qué x hace que A tenga menos fichas?",
+      "respuesta": "6",
+      "incorrectas": [
+        "7",
+        "8",
+        "9"
+      ],
+      "explicacion": "2 + 6 = 8 < 9.",
+      "oa": "OA14",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U4C6Q6",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 6,
+      "enunciado": "Se necesitan al menos 12 puntos para recibir una estrella. ¿Qué puntaje satisface la regla?",
+      "respuesta": "12",
+      "incorrectas": [
+        "10",
+        "11",
+        "9"
+      ],
+      "explicacion": "Al menos incluye el número 12.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q7",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 7,
+      "enunciado": "La expresión 4 + x > 10 requiere que x sea…",
+      "respuesta": "mayor que 6",
+      "incorrectas": [
+        "igual a 6",
+        "menor que 6",
+        "igual a 2"
+      ],
+      "explicacion": "Restando 4 resulta x > 6.",
+      "oa": "OA14",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U4C6Q8",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 8,
+      "enunciado": "Si 18 − x < 13, ¿cuál valor hace verdadera la desigualdad?",
+      "respuesta": "6",
+      "incorrectas": [
+        "3",
+        "4",
+        "5"
+      ],
+      "explicacion": "18 − 6 = 12, que es menor que 13.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q9",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 9,
+      "enunciado": "Una cinta debe medir menos de 30 cm. Si ya mide 22 cm, ¿qué extensión entera permite seguir bajo 30?",
+      "respuesta": "7 cm",
+      "incorrectas": [
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "explicacion": "22 + 7 = 29 < 30.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U4C6Q10",
+      "unidad": 4,
+      "conjunto": "U4-C06",
+      "orden": 10,
+      "enunciado": "En una carrera se clasifica con tiempo igual o menor a 25 minutos. ¿Qué tiempo clasifica?",
+      "respuesta": "24 min",
+      "incorrectas": [
+        "26 min",
+        "27 min",
+        "30 min"
+      ],
+      "explicacion": "24 es menor que 25, así que cumple el límite.",
+      "oa": "OA14",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C6Q1",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 1,
+      "enunciado": "Una mariposa tiene alas iguales a ambos lados de su cuerpo. ¿Qué concepto ilustra?",
+      "respuesta": "simetría",
+      "incorrectas": [
+        "área",
+        "división",
+        "fracción"
+      ],
+      "explicacion": "Una línea central divide dos mitades que coinciden.",
+      "oa": "OA17",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C6Q2",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 2,
+      "enunciado": "Una flecha apunta a la derecha → y gira 180°. ¿Hacia dónde apunta después?",
+      "respuesta": "hacia la izquierda",
+      "incorrectas": [
+        "hacia arriba",
+        "hacia abajo",
+        "hacia la derecha"
+      ],
+      "explicacion": "Un giro de 180° invierte la orientación.",
+      "oa": "OA18",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C6Q3",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 3,
+      "enunciado": "Una figura se desliza 4 espacios a la derecha sin girar. ¿Qué transformación ocurrió?",
+      "respuesta": "traslación",
+      "incorrectas": [
+        "reflexión",
+        "rotación",
+        "división"
+      ],
+      "explicacion": "Se desplaza sin cambiar de orientación.",
+      "oa": "OA18",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C6Q4",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 4,
+      "enunciado": "Al reflejar la letra A mayúscula sobre una línea vertical por su centro, ¿qué sucede?",
+      "respuesta": "sus mitades coinciden",
+      "incorrectas": [
+        "queda rotada 180°",
+        "aumenta de tamaño",
+        "se divide en tres"
+      ],
+      "explicacion": "La A mayúscula convencional posee simetría vertical.",
+      "oa": "OA17",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C6Q5",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 5,
+      "enunciado": "Un triángulo se ve reflejado como en un espejo. ¿Qué propiedad cambia?",
+      "respuesta": "la orientación izquierda-derecha",
+      "incorrectas": [
+        "su número de vértices",
+        "su área",
+        "su número de lados"
+      ],
+      "explicacion": "Reflexión invierte la orientación respecto del eje.",
+      "oa": "OA18",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C6Q6",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 6,
+      "enunciado": "¿Cuántas líneas de simetría tiene un rectángulo no cuadrado?",
+      "respuesta": "2",
+      "incorrectas": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explicacion": "Una horizontal y una vertical.",
+      "oa": "OA17",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C6Q7",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 7,
+      "enunciado": "Una rueda gira media vuelta. ¿A cuántos grados corresponde?",
+      "respuesta": "180°",
+      "incorrectas": [
+        "90°",
+        "45°",
+        "360°"
+      ],
+      "explicacion": "Media vuelta es 180°.",
+      "oa": "OA18",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C6Q8",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 8,
+      "enunciado": "Un dibujo tiene su mitad izquierda y derecha exactamente iguales. ¿Dónde está su eje de simetría?",
+      "respuesta": "en el centro, vertical",
+      "incorrectas": [
+        "en el borde inferior",
+        "fuera del dibujo",
+        "en un vértice"
+      ],
+      "explicacion": "La recta vertical central refleja ambos lados.",
+      "oa": "OA17",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C6Q9",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 9,
+      "enunciado": "Una hoja se mueve hacia abajo manteniendo su posición de frente. ¿Qué transformación es?",
+      "respuesta": "traslación",
+      "incorrectas": [
+        "giro de 180°",
+        "reflexión",
+        "simetría axial"
+      ],
+      "explicacion": "Se traslada de un lugar a otro.",
+      "oa": "OA18",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C6Q10",
+      "unidad": 5,
+      "conjunto": "U5-C06",
+      "orden": 10,
+      "enunciado": "Un cuadrado tiene cuatro líneas que lo dividen en mitades reflejadas. ¿Cuál cantidad es correcta?",
+      "respuesta": "4",
+      "incorrectas": [
+        "1",
+        "2",
+        "3"
+      ],
+      "explicacion": "Dos medianas y dos diagonales son ejes de simetría.",
+      "oa": "OA17",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q1",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 1,
+      "enunciado": "Una cinta de 5 metros se expresa en centímetros como…",
+      "respuesta": "500 cm",
+      "incorrectas": [
+        "50 cm",
+        "5 cm",
+        "5.000 cm"
+      ],
+      "explicacion": "5 × 100 = 500.",
+      "oa": "OA22",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q2",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 2,
+      "enunciado": "El ancho de una mesa es 80 cm. ¿Cuántos centímetros faltan para completar 1 m?",
+      "respuesta": "20 cm",
+      "incorrectas": [
+        "10 cm",
+        "30 cm",
+        "80 cm"
+      ],
+      "explicacion": "100 − 80 = 20.",
+      "oa": "OA22",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q3",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 3,
+      "enunciado": "Un huerto rectangular mide 7 m de largo y 4 m de ancho. ¿Cuál es su área?",
+      "respuesta": "28 m²",
+      "incorrectas": [
+        "22 m²",
+        "11 m²",
+        "14 m²"
+      ],
+      "explicacion": "Área = largo × ancho = 7 × 4.",
+      "oa": "OA23",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q4",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 4,
+      "enunciado": "Una plaza cuadrada tiene 6 m de lado. ¿Cuántos m² ocupa?",
+      "respuesta": "36 m²",
+      "incorrectas": [
+        "24 m²",
+        "12 m²",
+        "18 m²"
+      ],
+      "explicacion": "6 × 6 = 36.",
+      "oa": "OA23",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q5",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 5,
+      "enunciado": "Una regla de 30 cm y otra de 45 cm se ponen en línea. ¿Qué longitud total tienen?",
+      "respuesta": "75 cm",
+      "incorrectas": [
+        "65 cm",
+        "85 cm",
+        "15 cm"
+      ],
+      "explicacion": "30 + 45 = 75.",
+      "oa": "OA22",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q6",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 6,
+      "enunciado": "Una pared de 12 m² mide 3 m de alto. ¿Cuánto mide de ancho si es rectangular?",
+      "respuesta": "4 m",
+      "incorrectas": [
+        "6 m",
+        "9 m",
+        "36 m"
+      ],
+      "explicacion": "12 ÷ 3 = 4.",
+      "oa": "OA23",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q7",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 7,
+      "enunciado": "¿Qué unidad usarías para medir el largo de un pasillo escolar?",
+      "respuesta": "metros",
+      "incorrectas": [
+        "kilogramos",
+        "litros",
+        "grados"
+      ],
+      "explicacion": "El metro mide longitudes grandes.",
+      "oa": "OA22",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U5C7Q8",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 8,
+      "enunciado": "Un cartel rectangular tiene 24 cm² de área y 8 cm de ancho. ¿Qué alto tiene?",
+      "respuesta": "3 cm",
+      "incorrectas": [
+        "4 cm",
+        "16 cm",
+        "32 cm"
+      ],
+      "explicacion": "24 ÷ 8 = 3.",
+      "oa": "OA23",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q9",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 9,
+      "enunciado": "Un trozo de cordón mide 250 cm. ¿Qué expresión equivalente es correcta?",
+      "respuesta": "2 m y 50 cm",
+      "incorrectas": [
+        "25 m",
+        "2 m y 5 cm",
+        "20 m y 50 cm"
+      ],
+      "explicacion": "200 cm son 2 m; sobran 50 cm.",
+      "oa": "OA22",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C7Q10",
+      "unidad": 5,
+      "conjunto": "U5-C07",
+      "orden": 10,
+      "enunciado": "Dos rectángulos miden 2 × 6 y 3 × 4 cm. ¿Qué tienen en común?",
+      "respuesta": "la misma área",
+      "incorrectas": [
+        "el mismo alto",
+        "el mismo ancho",
+        "perímetros iguales"
+      ],
+      "explicacion": "Ambos ocupan 12 cm².",
+      "oa": "OA23",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C8Q1",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 1,
+      "enunciado": "En la encuesta: manzana 8, pera 5, plátano 6 votos. ¿Cuál fruta fue preferida?",
+      "respuesta": "manzana",
+      "incorrectas": [
+        "pera",
+        "plátano",
+        "empate"
+      ],
+      "explicacion": "La mayor frecuencia es 8.",
+      "oa": "OA27",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C8Q2",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 2,
+      "enunciado": "En un pictograma cada ● representa 3 bicicletas. Una fila tiene ●●●●. ¿Cuántas bicicletas son?",
+      "respuesta": "12",
+      "incorrectas": [
+        "4",
+        "7",
+        "16"
+      ],
+      "explicacion": "Cuatro símbolos por tres bicicletas.",
+      "oa": "OA27",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C8Q3",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 3,
+      "enunciado": "Un gráfico de barras registra 12 estudiantes en ajedrez y 9 en pintura. ¿Cuál es la diferencia?",
+      "respuesta": "3",
+      "incorrectas": [
+        "2",
+        "4",
+        "21"
+      ],
+      "explicacion": "12 − 9 = 3.",
+      "oa": "OA27",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C8Q4",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 4,
+      "enunciado": "Una tabla anota lluvia en días: lunes 4, martes 0, miércoles 7 mm. ¿Qué día llovió más?",
+      "respuesta": "miércoles",
+      "incorrectas": [
+        "lunes",
+        "martes",
+        "todos igual"
+      ],
+      "explicacion": "7 mm es el máximo.",
+      "oa": "OA27",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C8Q5",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 5,
+      "enunciado": "Los votos fueron: rojo 6, azul 10, verde 4. ¿Cuántos votos hubo en total?",
+      "respuesta": "20",
+      "incorrectas": [
+        "16",
+        "18",
+        "24"
+      ],
+      "explicacion": "6 + 10 + 4 = 20.",
+      "oa": "OA27",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C8Q6",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 6,
+      "enunciado": "Cada dibujo de pez vale 5 peces. En la columna hay 3 dibujos. ¿Cuál es la lectura correcta?",
+      "respuesta": "15 peces",
+      "incorrectas": [
+        "3 peces",
+        "8 peces",
+        "20 peces"
+      ],
+      "explicacion": "Escala: tres pictogramas por cinco.",
+      "oa": "OA27",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C8Q7",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 7,
+      "enunciado": "Un gráfico muestra 7 personas que usan bus y 14 que caminan. ¿Qué conclusión está respaldada?",
+      "respuesta": "el doble camina",
+      "incorrectas": [
+        "más personas usan bus",
+        "nadie camina",
+        "la mitad camina"
+      ],
+      "explicacion": "14 es el doble de 7.",
+      "oa": "OA27",
+      "estrategia": "verbal"
+    },
+    {
+      "codigo": "V14-U5C8Q8",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 8,
+      "enunciado": "En la tabla de reciclaje: papel 18 kg, vidrio 12 kg, plástico 9 kg. ¿Cuánto suman papel y vidrio?",
+      "respuesta": "30 kg",
+      "incorrectas": [
+        "21 kg",
+        "39 kg",
+        "27 kg"
+      ],
+      "explicacion": "18 + 12 = 30.",
+      "oa": "OA27",
+      "estrategia": "numerica"
+    },
+    {
+      "codigo": "V14-U5C8Q9",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 9,
+      "enunciado": "Las barras de una encuesta miden 4, 7, 7 y 2. ¿Qué afirmación es correcta?",
+      "respuesta": "dos categorías empatan en 7",
+      "incorrectas": [
+        "la última tiene más",
+        "todas tienen 7",
+        "ninguna empata"
+      ],
+      "explicacion": "La segunda y la tercera tienen igual altura.",
+      "oa": "OA27",
+      "estrategia": "visual"
+    },
+    {
+      "codigo": "V14-U5C8Q10",
+      "unidad": 5,
+      "conjunto": "U5-C08",
+      "orden": 10,
+      "enunciado": "Un pictograma usa 2 símbolos para lunes y 5 para viernes, con 4 libros por símbolo. ¿Cuántos libros más representa viernes?",
+      "respuesta": "12",
+      "incorrectas": [
+        "3",
+        "7",
+        "20"
+      ],
+      "explicacion": "(5 − 2) × 4 = 12.",
+      "oa": "OA27",
+      "estrategia": "visual"
+    }
+  ]
+}

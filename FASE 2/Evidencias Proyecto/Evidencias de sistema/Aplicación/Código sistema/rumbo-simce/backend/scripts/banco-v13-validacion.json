@@ -1,0 +1,7732 @@
+[
+  {
+    "code": "V12-U1C1H1Q1",
+    "oa": "OA1",
+    "answer": "9000",
+    "key": "B",
+    "enunciado": "En [[9]].136, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "90",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "900",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H1Q2",
+    "oa": "OA1",
+    "answer": "9.789",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 9.749 y 9.789?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9.749",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9.789",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H1Q3",
+    "oa": "OA1",
+    "answer": 3223,
+    "key": "D",
+    "enunciado": "¿Qué número resulta de 3.000 + 200 + 20 + 3?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3323",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3123",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3233",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3223",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H1Q4",
+    "oa": "OA1",
+    "answer": "5",
+    "key": "C",
+    "enunciado": "En 1.97[[5]], ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "50",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "500",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5000",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H1Q5",
+    "oa": "OA1",
+    "answer": "2.608",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 2.588 y 2.608?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2.588",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2.608",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H2Q1",
+    "oa": "OA1",
+    "answer": 5456,
+    "key": "D",
+    "enunciado": "¿Qué número resulta de 5.000 + 400 + 50 + 6?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5556",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5356",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5466",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5456",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H2Q2",
+    "oa": "OA1",
+    "answer": "10",
+    "key": "C",
+    "enunciado": "En 3.8[[1]]4, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1000",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H2Q3",
+    "oa": "OA1",
+    "answer": "4.477",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 4.427 y 4.477?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4.427",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4.477",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H2Q4",
+    "oa": "OA1",
+    "answer": 7759,
+    "key": "D",
+    "enunciado": "¿Qué número resulta de 7.000 + 700 + 50 + 9?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7859",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7659",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7769",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7759",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C1H2Q5",
+    "oa": "OA1",
+    "answer": "600",
+    "key": "A",
+    "enunciado": "En 5.[[6]]53, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "600",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "60",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6000",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H1Q1",
+    "oa": "OA1",
+    "answer": "8.115",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 8.105 y 8.115?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "8.105",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8.115",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H1Q2",
+    "oa": "OA1",
+    "answer": 5266,
+    "key": "B",
+    "enunciado": "¿Qué número resulta de 5.000 + 200 + 60 + 6?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5366",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5266",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5166",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5276",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H1Q3",
+    "oa": "OA1",
+    "answer": "10000",
+    "key": "A",
+    "enunciado": "En [[1]]0.000, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10000",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "100",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H1Q4",
+    "oa": "OA1",
+    "answer": "9.984",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 9.944 y 9.984?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9.944",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9.984",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H1Q5",
+    "oa": "OA1",
+    "answer": 7269,
+    "key": "B",
+    "enunciado": "¿Qué número resulta de 7.000 + 200 + 60 + 9?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7369",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7269",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7169",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7279",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H2Q1",
+    "oa": "OA1",
+    "answer": "70",
+    "key": "C",
+    "enunciado": "En 2.1[[7]]0, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "700",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "70",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7000",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H2Q2",
+    "oa": "OA1",
+    "answer": "2.803",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 2.783 y 2.803?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2.783",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2.803",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H2Q3",
+    "oa": "OA1",
+    "answer": 3423,
+    "key": "A",
+    "enunciado": "¿Qué número resulta de 3.000 + 400 + 20 + 3?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3423",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3523",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3323",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3433",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H2Q4",
+    "oa": "OA1",
+    "answer": "4000",
+    "key": "A",
+    "enunciado": "En [[4]].009, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4000",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "400",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "40",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C2H2Q5",
+    "oa": "OA1",
+    "answer": "4.672",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 4.622 y 4.672?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4.622",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4.672",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H1Q1",
+    "oa": "OA3",
+    "answer": 354,
+    "key": "B",
+    "enunciado": "Resuelve: 236 + 118 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "344",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "354",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "364",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "353",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H1Q2",
+    "oa": "OA3",
+    "answer": 283,
+    "key": "D",
+    "enunciado": "Resuelve: 412 − 129 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "293",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "273",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "284",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "283",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H1Q3",
+    "oa": "OA3",
+    "answer": 283,
+    "key": "C",
+    "enunciado": "Resuelve: 135 + 72 + 51 + 25 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "273",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "293",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "283",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "282",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H1Q4",
+    "oa": "OA3",
+    "answer": 317,
+    "key": "B",
+    "enunciado": "Resuelve: 468 − 151 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "327",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "317",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "307",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "318",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H1Q5",
+    "oa": "OA3",
+    "answer": 466,
+    "key": "C",
+    "enunciado": "Resuelve: 304 + 162 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "456",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "476",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "466",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "465",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H2Q1",
+    "oa": "OA3",
+    "answer": 351,
+    "key": "C",
+    "enunciado": "Resuelve: 524 − 173 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "361",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "341",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "351",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "352",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H2Q2",
+    "oa": "OA3",
+    "answer": 522,
+    "key": "C",
+    "enunciado": "Resuelve: 338 + 184 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "512",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "532",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "522",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "521",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H2Q3",
+    "oa": "OA3",
+    "answer": 303,
+    "key": "B",
+    "enunciado": "Resuelve: 140 + 77 + 56 + 30 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "293",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "303",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "313",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "302",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H2Q4",
+    "oa": "OA3",
+    "answer": 578,
+    "key": "B",
+    "enunciado": "Resuelve: 372 + 206 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "568",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "578",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "588",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "577",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U1C3H2Q5",
+    "oa": "OA3",
+    "answer": 419,
+    "key": "B",
+    "enunciado": "Resuelve: 636 − 217 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "429",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "419",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "409",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "420",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H1Q1",
+    "oa": "OA5",
+    "answer": 2576,
+    "key": "C",
+    "enunciado": "Calcula: 322 × 8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2584",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2568",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2576",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2656",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H1Q2",
+    "oa": "OA5",
+    "answer": 690,
+    "key": "B",
+    "enunciado": "Calcula: 345 × 2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "692",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "690",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "688",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "710",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H1Q3",
+    "oa": "OA5",
+    "answer": 1104,
+    "key": "B",
+    "enunciado": "Calcula: 368 × 3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1107",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1104",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1101",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1134",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H1Q4",
+    "oa": "OA5",
+    "answer": 1564,
+    "key": "D",
+    "enunciado": "Usa la propiedad distributiva: (100 + 291) × 4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1568",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1560",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1604",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1564",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H1Q5",
+    "oa": "OA5",
+    "answer": 595,
+    "key": "B",
+    "enunciado": "Calcula: 119 × 5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "600",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "595",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "590",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "645",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H2Q1",
+    "oa": "OA5",
+    "answer": 852,
+    "key": "A",
+    "enunciado": "Calcula: 142 × 6 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "852",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "858",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "846",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "912",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H2Q2",
+    "oa": "OA5",
+    "answer": 1155,
+    "key": "C",
+    "enunciado": "Calcula: 165 × 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1162",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1148",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1155",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1225",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H2Q3",
+    "oa": "OA5",
+    "answer": 1504,
+    "key": "D",
+    "enunciado": "Usa la propiedad distributiva: (100 + 88) × 8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1512",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1496",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1584",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1504",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H2Q4",
+    "oa": "OA5",
+    "answer": 422,
+    "key": "C",
+    "enunciado": "Calcula: 211 × 2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "424",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "420",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "422",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "442",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C1H2Q5",
+    "oa": "OA5",
+    "answer": 702,
+    "key": "C",
+    "enunciado": "Calcula: 234 × 3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "705",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "699",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "702",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "732",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H1Q1",
+    "oa": "OA6",
+    "answer": 10,
+    "key": "C",
+    "enunciado": "Calcula: 40 ÷ 4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "14",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H1Q2",
+    "oa": "OA6",
+    "answer": 11,
+    "key": "B",
+    "enunciado": "Calcula: 55 ÷ 5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "16",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H1Q3",
+    "oa": "OA6",
+    "answer": 5,
+    "key": "A",
+    "enunciado": "Calcula: 30 ÷ 6 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H1Q4",
+    "oa": "OA6",
+    "answer": 6,
+    "key": "B",
+    "enunciado": "Calcula: 42 ÷ 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H1Q5",
+    "oa": "OA6",
+    "answer": 7,
+    "key": "D",
+    "enunciado": "Calcula: 56 ÷ 8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H2Q1",
+    "oa": "OA6",
+    "answer": 8,
+    "key": "D",
+    "enunciado": "Calcula: 72 ÷ 9 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "8",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H2Q2",
+    "oa": "OA6",
+    "answer": 9,
+    "key": "C",
+    "enunciado": "Calcula: 18 ÷ 2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H2Q3",
+    "oa": "OA6",
+    "answer": 10,
+    "key": "A",
+    "enunciado": "Calcula: 30 ÷ 3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H2Q4",
+    "oa": "OA6",
+    "answer": 11,
+    "key": "D",
+    "enunciado": "Calcula: 44 ÷ 4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C2H2Q5",
+    "oa": "OA6",
+    "answer": 5,
+    "key": "C",
+    "enunciado": "Calcula: 25 ÷ 5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H1Q1",
+    "oa": "OA7",
+    "answer": 1750,
+    "key": "A",
+    "enunciado": "Pagas $2000 por un artículo de $250. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1750",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1850",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1650",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "250",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H1Q2",
+    "oa": "OA7",
+    "answer": 700,
+    "key": "A",
+    "enunciado": "Un cuaderno cuesta $350. ¿Cuánto cuestan 2 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "700",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1050",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "350",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "800",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H1Q3",
+    "oa": "OA7",
+    "answer": 2550,
+    "key": "C",
+    "enunciado": "Pagas $3000 por un artículo de $450. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2650",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2450",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2550",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "450",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H1Q4",
+    "oa": "OA7",
+    "answer": 2200,
+    "key": "B",
+    "enunciado": "Un cuaderno cuesta $550. ¿Cuánto cuestan 4 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2750",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2200",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1650",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2300",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H1Q5",
+    "oa": "OA7",
+    "answer": 3850,
+    "key": "C",
+    "enunciado": "Pagas $4000 por un artículo de $150. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3950",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3750",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3850",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "150",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H2Q1",
+    "oa": "OA7",
+    "answer": 500,
+    "key": "D",
+    "enunciado": "Un cuaderno cuesta $250. ¿Cuánto cuestan 2 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "750",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "250",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "600",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "500",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H2Q2",
+    "oa": "OA7",
+    "answer": 1650,
+    "key": "A",
+    "enunciado": "Pagas $2000 por un artículo de $350. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1650",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1750",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1550",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "350",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H2Q3",
+    "oa": "OA7",
+    "answer": 1800,
+    "key": "C",
+    "enunciado": "Un cuaderno cuesta $450. ¿Cuánto cuestan 4 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2250",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1350",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1800",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1900",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H2Q4",
+    "oa": "OA7",
+    "answer": 2450,
+    "key": "C",
+    "enunciado": "Pagas $3000 por un artículo de $550. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2550",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2350",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2450",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "550",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U2C3H2Q5",
+    "oa": "OA7",
+    "answer": 300,
+    "key": "B",
+    "enunciado": "Un cuaderno cuesta $150. ¿Cuánto cuestan 2 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "450",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "300",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "150",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "400",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H1Q1",
+    "oa": "OA8",
+    "answer": "3/12",
+    "key": "B",
+    "enunciado": "Una figura tiene 12 partes iguales y 3 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H1Q2",
+    "oa": "OA8",
+    "answer": "82/100",
+    "key": "A",
+    "enunciado": "Compara 81/100 y 82/100. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "82/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "81/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "82/101",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "81/101",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H1Q3",
+    "oa": "OA8",
+    "answer": "1/2",
+    "key": "D",
+    "enunciado": "Una tira tiene 2 partes iguales y 1 está coloreada. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H1Q4",
+    "oa": "OA8",
+    "answer": "2/3",
+    "key": "B",
+    "enunciado": "Compara 1/3 y 2/3. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H1Q5",
+    "oa": "OA8",
+    "answer": "3/4",
+    "key": "C",
+    "enunciado": "Una figura tiene 4 partes iguales y 3 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H2Q1",
+    "oa": "OA8",
+    "answer": "4/5",
+    "key": "D",
+    "enunciado": "Compara 3/5 y 4/5. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H2Q2",
+    "oa": "OA8",
+    "answer": "5/6",
+    "key": "D",
+    "enunciado": "Una tira tiene 6 partes iguales y 5 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5/6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H2Q3",
+    "oa": "OA8",
+    "answer": "5/8",
+    "key": "D",
+    "enunciado": "Compara 4/8 y 5/8. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4/9",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5/8",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H2Q4",
+    "oa": "OA8",
+    "answer": "7/10",
+    "key": "B",
+    "enunciado": "Una figura tiene 10 partes iguales y 7 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7/11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C1H2Q5",
+    "oa": "OA8",
+    "answer": "2/12",
+    "key": "A",
+    "enunciado": "Compara 1/12 y 2/12. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/13",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H1Q1",
+    "oa": "OA8",
+    "answer": "3/4",
+    "key": "C",
+    "enunciado": "Compara 2/4 y 3/4. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H1Q2",
+    "oa": "OA8",
+    "answer": "1/5",
+    "key": "D",
+    "enunciado": "Una tira tiene 5 partes iguales y 1 está coloreada. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5/1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H1Q3",
+    "oa": "OA8",
+    "answer": "5/6",
+    "key": "C",
+    "enunciado": "Compara 4/6 y 5/6. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H1Q4",
+    "oa": "OA8",
+    "answer": "6/8",
+    "key": "A",
+    "enunciado": "Una figura tiene 8 partes iguales y 6 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6/9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H1Q5",
+    "oa": "OA8",
+    "answer": "8/10",
+    "key": "C",
+    "enunciado": "Compara 7/10 y 8/10. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8/11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7/11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H2Q1",
+    "oa": "OA8",
+    "answer": "10/12",
+    "key": "B",
+    "enunciado": "Una tira tiene 12 partes iguales y 10 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "9/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10/13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H2Q2",
+    "oa": "OA8",
+    "answer": "99/100",
+    "key": "B",
+    "enunciado": "Compara 98/100 y 99/100. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "98/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "99/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "99/101",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "98/101",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H2Q3",
+    "oa": "OA8",
+    "answer": "1/2",
+    "key": "C",
+    "enunciado": "Una figura tiene 2 partes iguales y 1 está coloreada. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H2Q4",
+    "oa": "OA8",
+    "answer": "3/4",
+    "key": "D",
+    "enunciado": "Una tira tiene 4 partes iguales y 3 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C2H2Q5",
+    "oa": "OA8",
+    "answer": "3/5",
+    "key": "A",
+    "enunciado": "Compara 2/5 y 3/5. ¿Cuál es mayor?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H1Q1",
+    "oa": "OA9",
+    "answer": "3/10",
+    "key": "D",
+    "enunciado": "Resuelve: 1/10 + 2/10 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/20",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H1Q2",
+    "oa": "OA9",
+    "answer": "2/12",
+    "key": "A",
+    "enunciado": "Resuelve: 5/12 − 3/12 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/24",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H1Q3",
+    "oa": "OA9",
+    "answer": "4/100",
+    "key": "D",
+    "enunciado": "Resuelve: 3/100 + 1/100 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/200",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/100",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H1Q4",
+    "oa": "OA9",
+    "answer": "1/2",
+    "key": "A",
+    "enunciado": "Resuelve: 2/2 − 1/2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/3",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H1Q5",
+    "oa": "OA9",
+    "answer": "2/3",
+    "key": "B",
+    "enunciado": "Resuelve: 1/3 + 1/3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/3",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H2Q1",
+    "oa": "OA9",
+    "answer": "1/4",
+    "key": "B",
+    "enunciado": "Resuelve: 2/4 − 1/4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H2Q2",
+    "oa": "OA9",
+    "answer": "3/5",
+    "key": "D",
+    "enunciado": "Resuelve: 1/5 + 2/5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H2Q3",
+    "oa": "OA9",
+    "answer": "2/6",
+    "key": "C",
+    "enunciado": "Resuelve: 5/6 − 3/6 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H2Q4",
+    "oa": "OA9",
+    "answer": "4/8",
+    "key": "C",
+    "enunciado": "Resuelve: 3/8 + 1/8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4/16",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5/8",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U3C3H2Q5",
+    "oa": "OA9",
+    "answer": "1/10",
+    "key": "D",
+    "enunciado": "Resuelve: 3/10 − 2/10 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/20",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/11",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H1Q1",
+    "oa": "OA13",
+    "answer": 12,
+    "key": "D",
+    "enunciado": "Completa el patrón: 6, 8, 10, __, 14",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H1Q2",
+    "oa": "OA13",
+    "answer": 16,
+    "key": "C",
+    "enunciado": "Completa el patrón: 7, 10, 13, __, 19",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H1Q3",
+    "oa": "OA13",
+    "answer": 20,
+    "key": "D",
+    "enunciado": "Completa el patrón: 8, 12, 16, __, 24",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H1Q4",
+    "oa": "OA13",
+    "answer": 24,
+    "key": "B",
+    "enunciado": "Completa el patrón: 9, 14, 19, __, 29",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "29",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "25",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H1Q5",
+    "oa": "OA13",
+    "answer": 28,
+    "key": "A",
+    "enunciado": "Completa el patrón: 10, 16, 22, __, 34",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "34",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "29",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H2Q1",
+    "oa": "OA13",
+    "answer": 32,
+    "key": "D",
+    "enunciado": "Completa el patrón: 11, 18, 25, __, 39",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "39",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "25",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "33",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "32",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H2Q2",
+    "oa": "OA13",
+    "answer": 36,
+    "key": "C",
+    "enunciado": "Completa el patrón: 12, 20, 28, __, 44",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "44",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "37",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H2Q3",
+    "oa": "OA13",
+    "answer": 19,
+    "key": "C",
+    "enunciado": "Completa el patrón: 13, 15, 17, __, 21",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H2Q4",
+    "oa": "OA13",
+    "answer": 23,
+    "key": "B",
+    "enunciado": "Completa el patrón: 14, 17, 20, __, 26",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "23",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C1H2Q5",
+    "oa": "OA13",
+    "answer": 27,
+    "key": "D",
+    "enunciado": "Completa el patrón: 15, 19, 23, __, 31",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "31",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "23",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "27",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H1Q1",
+    "oa": "OA14",
+    "answer": 14,
+    "key": "D",
+    "enunciado": "Si x − 8 = 6, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "14",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H1Q2",
+    "oa": "OA14",
+    "answer": 15,
+    "key": "B",
+    "enunciado": "¿Cuál valor de x cumple x + 9 < 25?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H1Q3",
+    "oa": "OA14",
+    "answer": 16,
+    "key": "C",
+    "enunciado": "Si x + 10 = 26, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H1Q4",
+    "oa": "OA14",
+    "answer": 17,
+    "key": "A",
+    "enunciado": "Si x − 11 = 6, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H1Q5",
+    "oa": "OA14",
+    "answer": 18,
+    "key": "A",
+    "enunciado": "¿Cuál valor de x cumple x + 12 < 31?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "21",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H2Q1",
+    "oa": "OA14",
+    "answer": 19,
+    "key": "B",
+    "enunciado": "Si x + 13 = 32, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "32",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H2Q2",
+    "oa": "OA14",
+    "answer": 20,
+    "key": "D",
+    "enunciado": "Si x − 14 = 6, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "34",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H2Q3",
+    "oa": "OA14",
+    "answer": 21,
+    "key": "C",
+    "enunciado": "¿Cuál valor de x cumple x + 15 < 37?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "23",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H2Q4",
+    "oa": "OA14",
+    "answer": 22,
+    "key": "C",
+    "enunciado": "Si x + 2 = 24, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "23",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C2H2Q5",
+    "oa": "OA14",
+    "answer": 23,
+    "key": "A",
+    "enunciado": "Si x − 3 = 20, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "23",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H1Q1",
+    "oa": "OA14",
+    "answer": 27,
+    "key": "C",
+    "enunciado": "¿Cuál valor de x cumple x + 7 < 35?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "29",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "27",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "30",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H1Q2",
+    "oa": "OA14",
+    "answer": 28,
+    "key": "C",
+    "enunciado": "Si x + 8 = 36, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "29",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H1Q3",
+    "oa": "OA14",
+    "answer": 29,
+    "key": "B",
+    "enunciado": "Si x − 9 = 20, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "29",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "38",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "30",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H1Q4",
+    "oa": "OA14",
+    "answer": 4,
+    "key": "C",
+    "enunciado": "¿Cuál valor de x cumple x + 3 < 8?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H1Q5",
+    "oa": "OA14",
+    "answer": 5,
+    "key": "C",
+    "enunciado": "Si x + 4 = 9, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H2Q1",
+    "oa": "OA14",
+    "answer": 6,
+    "key": "D",
+    "enunciado": "Si x − 5 = 1, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H2Q2",
+    "oa": "OA14",
+    "answer": 7,
+    "key": "B",
+    "enunciado": "¿Cuál valor de x cumple x + 6 < 14?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H2Q3",
+    "oa": "OA14",
+    "answer": 8,
+    "key": "C",
+    "enunciado": "Si x + 7 = 15, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H2Q4",
+    "oa": "OA14",
+    "answer": 9,
+    "key": "B",
+    "enunciado": "Si x − 8 = 1, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U4C3H2Q5",
+    "oa": "OA14",
+    "answer": 10,
+    "key": "D",
+    "enunciado": "¿Cuál valor de x cumple x + 2 < 13?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H1Q1",
+    "oa": "OA17",
+    "answer": "Triángulo escaleno",
+    "key": "D",
+    "enunciado": "De estas cuatro figuras, ¿cuál NO tiene líneas de simetría? (Ejercicio 19)",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H1Q2",
+    "oa": "OA17",
+    "answer": 4,
+    "key": "A",
+    "enunciado": "¿Cuántas líneas de simetría tiene un cuadrado de lado 14 cm?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "0",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H1Q3",
+    "oa": "OA17",
+    "answer": 2,
+    "key": "A",
+    "enunciado": "¿Cuántas líneas de simetría tiene un rectángulo de 3 por 26 cm?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "0",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H1Q4",
+    "oa": "OA17",
+    "answer": "Triángulo equilátero",
+    "key": "C",
+    "enunciado": "Un polígono regular de tres lados de 17 cm: ¿qué figura es y tiene tres líneas de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Paralelogramo oblicuo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H1Q5",
+    "oa": "OA17",
+    "answer": "Triángulo isósceles no equilátero",
+    "key": "D",
+    "enunciado": "¿Qué figura de base 2 cm puede tener exactamente una línea de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Rectángulo no cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Círculo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Triángulo isósceles no equilátero",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H2Q1",
+    "oa": "OA17",
+    "answer": "Triángulo escaleno",
+    "key": "B",
+    "enunciado": "De estas cuatro figuras, ¿cuál NO tiene líneas de simetría? (Ejercicio 5)",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H2Q2",
+    "oa": "OA17",
+    "answer": 4,
+    "key": "B",
+    "enunciado": "¿Cuántas líneas de simetría tiene un cuadrado de lado 6 cm?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "0",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H2Q3",
+    "oa": "OA17",
+    "answer": 2,
+    "key": "C",
+    "enunciado": "¿Cuántas líneas de simetría tiene un rectángulo de 8 por 24 cm?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "0",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H2Q4",
+    "oa": "OA17",
+    "answer": "Triángulo equilátero",
+    "key": "A",
+    "enunciado": "Un polígono regular de tres lados de 5 cm: ¿qué figura es y tiene tres líneas de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Paralelogramo oblicuo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C1H2Q5",
+    "oa": "OA17",
+    "answer": "Triángulo isósceles no equilátero",
+    "key": "A",
+    "enunciado": "¿Qué figura de base 7 cm puede tener exactamente una línea de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo isósceles no equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Rectángulo no cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Círculo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H1Q1",
+    "oa": "OA18",
+    "answer": 6,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 1 y se traslada 5 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "-4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H1Q2",
+    "oa": "OA18",
+    "answer": "arriba",
+    "key": "A",
+    "enunciado": "Una flecha apunta hacia abajo. Después de girarla 180°, apuntará hacia…",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "arriba",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "izquierda",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "abajo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "derecha",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H1Q3",
+    "oa": "OA18",
+    "answer": 10,
+    "key": "B",
+    "enunciado": "Un punto está en la columna 3 y se traslada 7 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "-4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H1Q4",
+    "oa": "OA18",
+    "answer": "izquierda",
+    "key": "C",
+    "enunciado": "Una flecha apunta a la derecha. ¿Adónde apunta su reflejo en un espejo vertical?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "derecha",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "arriba",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "izquierda",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "abajo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H1Q5",
+    "oa": "OA18",
+    "answer": 7,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 5 y se traslada 2 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "8",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H2Q1",
+    "oa": "OA18",
+    "answer": 15,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 10 y se traslada 5 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "16",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H2Q2",
+    "oa": "OA18",
+    "answer": 11,
+    "key": "C",
+    "enunciado": "Un punto está en la columna 7 y se traslada 4 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H2Q3",
+    "oa": "OA18",
+    "answer": "abajo",
+    "key": "D",
+    "enunciado": "Una flecha apunta hacia arriba. Después de girarla 180°, apuntará hacia…",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "derecha",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "arriba",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "izquierda",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "abajo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H2Q4",
+    "oa": "OA18",
+    "answer": 9,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 6 y se traslada 3 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C2H2Q5",
+    "oa": "OA18",
+    "answer": 5,
+    "key": "D",
+    "enunciado": "Un punto está en la columna 3 y se traslada 2 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H1Q1",
+    "oa": "OA22",
+    "answer": 800,
+    "key": "D",
+    "enunciado": "¿Cuántos centímetros hay en 8 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "80",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "810",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "800",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H1Q2",
+    "oa": "OA22",
+    "answer": 9,
+    "key": "D",
+    "enunciado": "¿Cuántos metros representan 900 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "90",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "900",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H1Q3",
+    "oa": "OA22",
+    "answer": 1000,
+    "key": "A",
+    "enunciado": "¿Cuántos centímetros hay en 10 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1000",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10000",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1010",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H1Q4",
+    "oa": "OA22",
+    "answer": 11,
+    "key": "D",
+    "enunciado": "¿Cuántos metros representan 1100 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "110",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H1Q5",
+    "oa": "OA22",
+    "answer": 1200,
+    "key": "C",
+    "enunciado": "¿Cuántos centímetros hay en 12 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "120",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1200",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1210",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H2Q1",
+    "oa": "OA22",
+    "answer": 13,
+    "key": "B",
+    "enunciado": "¿Cuántos metros representan 1300 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "130",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1300",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "14",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H2Q2",
+    "oa": "OA22",
+    "answer": 1400,
+    "key": "A",
+    "enunciado": "¿Cuántos centímetros hay en 14 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1400",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "140",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "14000",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1410",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H2Q3",
+    "oa": "OA22",
+    "answer": 15,
+    "key": "B",
+    "enunciado": "¿Cuántos metros representan 1500 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "150",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1500",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "16",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H2Q4",
+    "oa": "OA22",
+    "answer": 1600,
+    "key": "B",
+    "enunciado": "¿Cuántos centímetros hay en 16 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "160",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1600",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16000",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1610",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C3H2Q5",
+    "oa": "OA22",
+    "answer": 17,
+    "key": "D",
+    "enunciado": "¿Cuántos metros representan 1700 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "170",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1700",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H1Q1",
+    "oa": "OA23",
+    "answer": 30,
+    "key": "C",
+    "enunciado": "Una figura cubre 6 filas de 5 cuadrados de 1 cm². ¿Cuál es su área?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "30",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "31",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H1Q2",
+    "oa": "OA23",
+    "answer": 42,
+    "key": "A",
+    "enunciado": "Un rectángulo mide 7 cm de largo y 6 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "42",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "49",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "36",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H1Q3",
+    "oa": "OA23",
+    "answer": 8,
+    "key": "C",
+    "enunciado": "Un rectángulo tiene área 16 cm² y ancho 2 cm. ¿Cuánto mide su largo?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H1Q4",
+    "oa": "OA23",
+    "answer": 27,
+    "key": "C",
+    "enunciado": "Un rectángulo mide 9 cm de largo y 3 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "27",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H1Q5",
+    "oa": "OA23",
+    "answer": 40,
+    "key": "B",
+    "enunciado": "Una figura cubre 10 filas de 4 cuadrados de 1 cm². ¿Cuál es su área?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "40",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "50",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "41",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H2Q1",
+    "oa": "OA23",
+    "answer": 15,
+    "key": "A",
+    "enunciado": "Un rectángulo mide 3 cm de largo y 5 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H2Q2",
+    "oa": "OA23",
+    "answer": 24,
+    "key": "A",
+    "enunciado": "Una figura cubre 4 filas de 6 cuadrados de 1 cm². ¿Cuál es su área?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "25",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H2Q3",
+    "oa": "OA23",
+    "answer": 5,
+    "key": "D",
+    "enunciado": "Un rectángulo tiene área 10 cm² y ancho 2 cm. ¿Cuánto mide su largo?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H2Q4",
+    "oa": "OA23",
+    "answer": 18,
+    "key": "A",
+    "enunciado": "Una figura cubre 6 filas de 3 cuadrados de 1 cm². ¿Cuál es su área?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "19",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C4H2Q5",
+    "oa": "OA23",
+    "answer": 28,
+    "key": "A",
+    "enunciado": "Un rectángulo mide 7 cm de largo y 4 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "35",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H1Q1",
+    "oa": "OA27",
+    "answer": "martes",
+    "key": "C",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■\nMartes: ■■■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H1Q2",
+    "oa": "OA27",
+    "answer": 14,
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■\nMartes: ■■■■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron el martes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H1Q3",
+    "oa": "OA27",
+    "answer": 20,
+    "key": "B",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■\nMartes: ■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron en total?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H1Q4",
+    "oa": "OA27",
+    "answer": "miércoles",
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■\nMartes: ■■■■■■\nMiércoles: ■■■■■■■■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H1Q5",
+    "oa": "OA27",
+    "answer": 12,
+    "key": "C",
+    "enunciado": "Lee el pictograma:\nLunes: ■■\nMartes: ■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron en total?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H2Q1",
+    "oa": "OA27",
+    "answer": 10,
+    "key": "D",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■\nMartes: ■■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron el martes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H2Q2",
+    "oa": "OA27",
+    "answer": "lunes",
+    "key": "C",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■■■■\nMartes: ■■■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H2Q3",
+    "oa": "OA27",
+    "answer": 8,
+    "key": "C",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■\nMartes: ■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron el martes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H2Q4",
+    "oa": "OA27",
+    "answer": 26,
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■\nMartes: ■■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron en total?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "24",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-U5C5H2Q5",
+    "oa": "OA27",
+    "answer": "martes",
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■\nMartes: ■■■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q01",
+    "oa": "OA1",
+    "answer": 5426,
+    "key": "A",
+    "enunciado": "¿Qué número resulta de 5.000 + 400 + 20 + 6?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5426",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5526",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5326",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5436",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q02",
+    "oa": "OA3",
+    "answer": 622,
+    "key": "A",
+    "enunciado": "Resuelve: 408 + 214 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "622",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "612",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "632",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "621",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q03",
+    "oa": "OA1",
+    "answer": "7000",
+    "key": "B",
+    "enunciado": "En [[7]].768, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "70",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "700",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q04",
+    "oa": "OA3",
+    "answer": 734,
+    "key": "B",
+    "enunciado": "Resuelve: 476 + 258 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "724",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "734",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "744",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "733",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q05",
+    "oa": "OA1",
+    "answer": "1.230",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 1.220 y 1.230?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1.220",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1.230",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q06",
+    "oa": "OA3",
+    "answer": 456,
+    "key": "B",
+    "enunciado": "Resuelve: 154 + 302 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "446",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "456",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "466",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "455",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q07",
+    "oa": "OA1",
+    "answer": 7259,
+    "key": "B",
+    "enunciado": "¿Qué número resulta de 7.000 + 200 + 50 + 9?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7359",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7259",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7159",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7269",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q08",
+    "oa": "OA3",
+    "answer": 308,
+    "key": "C",
+    "enunciado": "Resuelve: 222 + 86 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "298",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "318",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "308",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "307",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q09",
+    "oa": "OA1",
+    "answer": "6000",
+    "key": "A",
+    "enunciado": "En [[6]].124, ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6000",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "60",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "600",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q10",
+    "oa": "OA3",
+    "answer": 313,
+    "key": "C",
+    "enunciado": "Resuelve: 145 + 72 + 61 + 35 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "303",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "323",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "313",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "312",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q11",
+    "oa": "OA1",
+    "answer": "8.606",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 8.576 y 8.606?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "8.576",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8.606",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E1-Q12",
+    "oa": "OA3",
+    "answer": 532,
+    "key": "C",
+    "enunciado": "Resuelve: 358 + 174 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "522",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "542",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "532",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "531",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q01",
+    "oa": "OA5",
+    "answer": 515,
+    "key": "D",
+    "enunciado": "Calcula: 103 × 5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "520",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "510",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "565",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "515",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q02",
+    "oa": "OA6",
+    "answer": 10,
+    "key": "D",
+    "enunciado": "Calcula: 60 ÷ 6 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q03",
+    "oa": "OA7",
+    "answer": 1000,
+    "key": "B",
+    "enunciado": "Un cuaderno cuesta $250. ¿Cuánto cuestan 4 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1250",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "750",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1100",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q04",
+    "oa": "OA5",
+    "answer": 964,
+    "key": "C",
+    "enunciado": "Usa la propiedad distributiva: (100 + 141) × 4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "968",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "960",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "964",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1004",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q05",
+    "oa": "OA6",
+    "answer": 9,
+    "key": "B",
+    "enunciado": "Calcula: 36 ÷ 4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q06",
+    "oa": "OA7",
+    "answer": 1450,
+    "key": "A",
+    "enunciado": "Pagas $2000 por un artículo de $550. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1450",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1550",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1350",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "550",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q07",
+    "oa": "OA5",
+    "answer": 1137,
+    "key": "C",
+    "enunciado": "Calcula: 379 × 3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1140",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1134",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1137",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1167",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q08",
+    "oa": "OA6",
+    "answer": 8,
+    "key": "C",
+    "enunciado": "Calcula: 16 ÷ 2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q09",
+    "oa": "OA7",
+    "answer": 1850,
+    "key": "C",
+    "enunciado": "Pagas $2000 por un artículo de $150. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1950",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1750",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1850",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "150",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q10",
+    "oa": "OA5",
+    "answer": 444,
+    "key": "C",
+    "enunciado": "Usa la propiedad distributiva: (100 + 122) × 2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "446",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "442",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "444",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "464",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q11",
+    "oa": "OA6",
+    "answer": 9,
+    "key": "A",
+    "enunciado": "Calcula: 45 ÷ 5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "14",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E2-Q12",
+    "oa": "OA7",
+    "answer": 1100,
+    "key": "B",
+    "enunciado": "Un cuaderno cuesta $550. ¿Cuánto cuestan 2 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1650",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "550",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1200",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q01",
+    "oa": "OA8",
+    "answer": "2/6",
+    "key": "A",
+    "enunciado": "Una figura tiene 6 partes iguales y 2 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q02",
+    "oa": "OA9",
+    "answer": "5/6",
+    "key": "C",
+    "enunciado": "Resuelve: 2/6 + 3/6 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q03",
+    "oa": "OA8",
+    "answer": "7/10",
+    "key": "B",
+    "enunciado": "Una tira tiene 10 partes iguales y 7 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7/11",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q04",
+    "oa": "OA9",
+    "answer": "5/12",
+    "key": "B",
+    "enunciado": "Resuelve: 2/12 + 3/12 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "5/24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q05",
+    "oa": "OA8",
+    "answer": "1/3",
+    "key": "D",
+    "enunciado": "Una tira tiene 3 partes iguales y 1 está coloreada. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/3",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q06",
+    "oa": "OA9",
+    "answer": "3/100",
+    "key": "A",
+    "enunciado": "Resuelve: 4/100 − 1/100 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/200",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/101",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q07",
+    "oa": "OA8",
+    "answer": "4/8",
+    "key": "B",
+    "enunciado": "Una tira tiene 8 partes iguales y 4 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "8/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q08",
+    "oa": "OA9",
+    "answer": "2/2",
+    "key": "D",
+    "enunciado": "Resuelve: 1/2 + 1/2 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/2",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q09",
+    "oa": "OA8",
+    "answer": "2/6",
+    "key": "B",
+    "enunciado": "Una tira tiene 6 partes iguales y 2 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q10",
+    "oa": "OA9",
+    "answer": "2/4",
+    "key": "A",
+    "enunciado": "Resuelve: 1/4 + 1/4 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q11",
+    "oa": "OA8",
+    "answer": "3/6",
+    "key": "A",
+    "enunciado": "Una tira tiene 6 partes iguales y 3 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E3-Q12",
+    "oa": "OA9",
+    "answer": "1/3",
+    "key": "C",
+    "enunciado": "Resuelve: 2/3 − 1/3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q01",
+    "oa": "OA13",
+    "answer": 24,
+    "key": "B",
+    "enunciado": "Completa el patrón: 18, 20, 22, __, 26",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "25",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q02",
+    "oa": "OA14",
+    "answer": 14,
+    "key": "A",
+    "enunciado": "Si x − 4 = 10, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "15",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q03",
+    "oa": "OA13",
+    "answer": 21,
+    "key": "D",
+    "enunciado": "Completa el patrón: 3, 9, 15, __, 27",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "27",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "21",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q04",
+    "oa": "OA14",
+    "answer": 18,
+    "key": "A",
+    "enunciado": "¿Cuál valor de x cumple x + 8 < 27?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "21",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q05",
+    "oa": "OA13",
+    "answer": 21,
+    "key": "B",
+    "enunciado": "Completa el patrón: 6, 11, 16, __, 26",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "22",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q06",
+    "oa": "OA14",
+    "answer": 22,
+    "key": "B",
+    "enunciado": "Si x + 12 = 34, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "34",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "23",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q07",
+    "oa": "OA13",
+    "answer": 16,
+    "key": "C",
+    "enunciado": "Completa el patrón: 10, 12, 14, __, 18",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q08",
+    "oa": "OA14",
+    "answer": 26,
+    "key": "C",
+    "enunciado": "Si x − 2 = 24, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "28",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "27",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q09",
+    "oa": "OA13",
+    "answer": 32,
+    "key": "D",
+    "enunciado": "Completa el patrón: 14, 20, 26, __, 38",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "38",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "33",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "32",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q10",
+    "oa": "OA14",
+    "answer": 15,
+    "key": "D",
+    "enunciado": "Si x + 14 = 29, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "29",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "15",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q11",
+    "oa": "OA13",
+    "answer": 43,
+    "key": "C",
+    "enunciado": "Completa el patrón: 19, 27, 35, __, 51",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "51",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "35",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "43",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "44",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E4-Q12",
+    "oa": "OA14",
+    "answer": 19,
+    "key": "B",
+    "enunciado": "Si x − 5 = 14, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q01",
+    "oa": "OA17",
+    "answer": "Triángulo escaleno",
+    "key": "C",
+    "enunciado": "De estas cuatro figuras, ¿cuál NO tiene líneas de simetría? (Ejercicio 7)",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q02",
+    "oa": "OA18",
+    "answer": 11,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 3 y se traslada 8 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "-5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q03",
+    "oa": "OA22",
+    "answer": 1300,
+    "key": "A",
+    "enunciado": "¿Cuántos centímetros hay en 13 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1300",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "130",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "13000",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1310",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q04",
+    "oa": "OA23",
+    "answer": 25,
+    "key": "C",
+    "enunciado": "Un rectángulo mide 5 cm de largo y 5 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "30",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "25",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q05",
+    "oa": "OA27",
+    "answer": "lunes",
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■■■\nMartes: ■■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q06",
+    "oa": "OA17",
+    "answer": "Triángulo equilátero",
+    "key": "B",
+    "enunciado": "Un polígono regular de tres lados de 10 cm: ¿qué figura es y tiene tres líneas de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Paralelogramo oblicuo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q07",
+    "oa": "OA18",
+    "answer": 6,
+    "key": "D",
+    "enunciado": "Un punto está en la columna 2 y se traslada 4 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "-2",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q08",
+    "oa": "OA22",
+    "answer": 400,
+    "key": "A",
+    "enunciado": "¿Cuántos centímetros hay en 4 metros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "400",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "40",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4000",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "410",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q09",
+    "oa": "OA23",
+    "answer": 35,
+    "key": "D",
+    "enunciado": "Un rectángulo mide 7 cm de largo y 5 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "42",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "30",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "35",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q10",
+    "oa": "OA27",
+    "answer": "lunes",
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■■■■\nMartes: ■■■■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q11",
+    "oa": "OA17",
+    "answer": "Triángulo equilátero",
+    "key": "D",
+    "enunciado": "Un polígono regular de tres lados de 3 cm: ¿qué figura es y tiene tres líneas de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Paralelogramo oblicuo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-E5-Q12",
+    "oa": "OA18",
+    "answer": 8,
+    "key": "B",
+    "enunciado": "Un punto está en la columna 1 y se traslada 7 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "-6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q01",
+    "oa": "OA1",
+    "answer": "1",
+    "key": "C",
+    "enunciado": "En 7.29[[1]], ¿cuánto vale el dígito resaltado?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1000",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q02",
+    "oa": "OA3",
+    "answer": 572,
+    "key": "B",
+    "enunciado": "Resuelve: 438 + 134 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "562",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "572",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "582",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "571",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q03",
+    "oa": "OA5",
+    "answer": 1890,
+    "key": "D",
+    "enunciado": "Calcula: 270 × 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1897",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1883",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1960",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1890",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q04",
+    "oa": "OA6",
+    "answer": 5,
+    "key": "D",
+    "enunciado": "Calcula: 15 ÷ 3 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q05",
+    "oa": "OA7",
+    "answer": 3550,
+    "key": "C",
+    "enunciado": "Pagas $4000 por un artículo de $450. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3650",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3450",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3550",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "450",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q06",
+    "oa": "OA8",
+    "answer": "63/100",
+    "key": "D",
+    "enunciado": "Una figura tiene 100 partes iguales y 63 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "100/63",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "62/100",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "63/101",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "63/100",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q07",
+    "oa": "OA9",
+    "answer": "1/5",
+    "key": "D",
+    "enunciado": "Resuelve: 3/5 − 2/5 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1/10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q08",
+    "oa": "OA1",
+    "answer": "1.348",
+    "key": "B",
+    "enunciado": "¿Cuál es el mayor número entre 1.328 y 1.348?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1.328",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1.348",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q09",
+    "oa": "OA3",
+    "answer": 521,
+    "key": "A",
+    "enunciado": "Resuelve: 674 − 153 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "521",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "531",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "511",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "522",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q10",
+    "oa": "OA5",
+    "answer": 1519,
+    "key": "A",
+    "enunciado": "Calcula: 217 × 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1519",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1526",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1512",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1589",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q11",
+    "oa": "OA6",
+    "answer": 10,
+    "key": "C",
+    "enunciado": "Calcula: 70 ÷ 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q12",
+    "oa": "OA7",
+    "answer": 2750,
+    "key": "B",
+    "enunciado": "Pagas $3000 por un artículo de $250. ¿Cuánto cambio recibes?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2850",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2750",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2650",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "250",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q13",
+    "oa": "OA8",
+    "answer": "4/6",
+    "key": "B",
+    "enunciado": "Una tira tiene 6 partes iguales y 4 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "6/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q14",
+    "oa": "OA9",
+    "answer": "3/8",
+    "key": "C",
+    "enunciado": "Resuelve: 4/8 − 1/8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3/16",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1/9",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q15",
+    "oa": "OA1",
+    "answer": 7769,
+    "key": "D",
+    "enunciado": "¿Qué número resulta de 7.000 + 700 + 60 + 9?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7869",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7669",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7779",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7769",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q16",
+    "oa": "OA3",
+    "answer": 326,
+    "key": "D",
+    "enunciado": "Resuelve: 154 + 172 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "316",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "336",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "325",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "326",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q17",
+    "oa": "OA5",
+    "answer": 1148,
+    "key": "A",
+    "enunciado": "Calcula: 164 × 7 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1148",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1155",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1141",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "1218",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q18",
+    "oa": "OA6",
+    "answer": 10,
+    "key": "A",
+    "enunciado": "Calcula: 80 ÷ 8 =",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q19",
+    "oa": "OA7",
+    "answer": 600,
+    "key": "D",
+    "enunciado": "Un cuaderno cuesta $150. ¿Cuánto cuestan 4 cuadernos?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "750",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "450",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "700",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "600",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q20",
+    "oa": "OA8",
+    "answer": "7/12",
+    "key": "A",
+    "enunciado": "Una tira tiene 12 partes iguales y 7 están coloreadas. ¿Qué fracción representan?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "7/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7/13",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q21",
+    "oa": "OA13",
+    "answer": 24,
+    "key": "A",
+    "enunciado": "Completa el patrón: 3, 10, 17, __, 31",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "31",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "25",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q22",
+    "oa": "OA14",
+    "answer": 26,
+    "key": "C",
+    "enunciado": "Si x + 14 = 40, ¿cuánto vale x?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "40",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "26",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "27",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q23",
+    "oa": "OA13",
+    "answer": 38,
+    "key": "D",
+    "enunciado": "Completa el patrón: 17, 24, 31, __, 45",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "45",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "31",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "39",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "38",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q24",
+    "oa": "OA14",
+    "answer": 14,
+    "key": "B",
+    "enunciado": "¿Cuál valor de x cumple x + 13 < 28?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "17",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q25",
+    "oa": "OA17",
+    "answer": "Triángulo equilátero",
+    "key": "B",
+    "enunciado": "Un polígono regular de tres lados de 4 cm: ¿qué figura es y tiene tres líneas de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Triángulo equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Rectángulo",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Paralelogramo oblicuo",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q26",
+    "oa": "OA18",
+    "answer": 11,
+    "key": "A",
+    "enunciado": "Un punto está en la columna 9 y se traslada 2 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q27",
+    "oa": "OA17",
+    "answer": 2,
+    "key": "A",
+    "enunciado": "¿Cuántas líneas de simetría tiene un rectángulo de 6 por 20 cm?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "0",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q28",
+    "oa": "OA18",
+    "answer": 3,
+    "key": "C",
+    "enunciado": "Un punto está en la columna 1 y se traslada 2 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "1",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "-1",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q29",
+    "oa": "OA17",
+    "answer": "Triángulo isósceles no equilátero",
+    "key": "C",
+    "enunciado": "¿Qué figura de base 3 cm puede tener exactamente una línea de simetría?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "Rectángulo no cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Círculo",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Triángulo isósceles no equilátero",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Cuadrado",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q30",
+    "oa": "OA18",
+    "answer": 6,
+    "key": "D",
+    "enunciado": "Un punto está en la columna 4 y se traslada 2 columnas a la derecha. ¿En cuál queda?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q31",
+    "oa": "OA22",
+    "answer": 7,
+    "key": "D",
+    "enunciado": "¿Cuántos metros representan 700 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "70",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "700",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "7",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q32",
+    "oa": "OA23",
+    "answer": 18,
+    "key": "B",
+    "enunciado": "Un rectángulo mide 3 cm de largo y 6 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q33",
+    "oa": "OA22",
+    "answer": 10,
+    "key": "D",
+    "enunciado": "¿Cuántos metros representan 1000 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "100",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1000",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "10",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q34",
+    "oa": "OA23",
+    "answer": 45,
+    "key": "A",
+    "enunciado": "Un rectángulo mide 9 cm de largo y 5 cm de ancho. ¿Cuál es su área en cm²?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "45",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "14",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "54",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "40",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q35",
+    "oa": "OA22",
+    "answer": 5,
+    "key": "C",
+    "enunciado": "¿Cuántos metros representan 500 centímetros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "50",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "500",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q36",
+    "oa": "OA23",
+    "answer": 3,
+    "key": "A",
+    "enunciado": "Un rectángulo tiene área 6 cm² y ancho 2 cm. ¿Cuánto mide su largo?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "5",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q37",
+    "oa": "OA27",
+    "answer": "lunes",
+    "key": "D",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■■■■■■\nMartes: ■■■■■■\nMiércoles: ■■■■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "jueves",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "lunes",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q38",
+    "oa": "OA27",
+    "answer": 18,
+    "key": "D",
+    "enunciado": "Lee el pictograma:\nLunes: ■■■\nMartes: ■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Cuántos libros se registraron en total?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q39",
+    "oa": "OA27",
+    "answer": "miércoles",
+    "key": "B",
+    "enunciado": "Lee el pictograma:\nLunes: ■■\nMartes: ■■■\nMiércoles: ■■■■■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  },
+  {
+    "code": "V12-FIN-Q40",
+    "oa": "OA27",
+    "answer": "martes",
+    "key": "A",
+    "enunciado": "Lee el pictograma:\nLunes: ■■\nMartes: ■■■■■\nMiércoles: ■\nCada ■ representa 2 libros.\n¿Qué día se registraron más libros?",
+    "options": [
+      {
+        "clave": "A",
+        "texto": "martes",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "lunes",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "miércoles",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "jueves",
+        "tipo_error": null
+      }
+    ]
+  }
+]

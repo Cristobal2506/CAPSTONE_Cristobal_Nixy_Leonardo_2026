@@ -1,0 +1,49 @@
+name: CI
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+
+jobs:
+  api:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: rumbo
+          POSTGRES_PASSWORD: rumbo
+          POSTGRES_DB: rumbo_simce_test
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: backend/package-lock.json
+      - run: npm ci
+      - run: npm test
+        env:
+          TEST_DATABASE_URL: postgres://rumbo:rumbo@localhost:5432/rumbo_simce_test
+      - run: npm run test:reconocimiento   # v16: lector de números escritos (sin base de datos)
+
+  mobile:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mobile
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # El ZIP liviano de distribución no lleva lockfile móvil generado;
+      # npm install lo genera en la primera instalación (sin node_modules en Git).
+      - run: npm install --no-audit --no-fund
+      - run: npx tsc --noEmit

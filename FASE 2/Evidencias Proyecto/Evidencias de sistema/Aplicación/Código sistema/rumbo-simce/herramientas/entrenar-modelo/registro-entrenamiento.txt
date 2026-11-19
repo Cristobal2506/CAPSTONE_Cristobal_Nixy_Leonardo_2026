@@ -1,0 +1,22 @@
+train 8500 test 1500
+ep1 loss 1.470 test 0.9173 test_aum 0.8160
+ep2 loss 0.752 test 0.9500 test_aum 0.8707
+ep3 loss 0.629 test 0.9587 test_aum 0.8973
+ep4 loss 0.568 test 0.9593 test_aum 0.9047
+ep5 loss 0.538 test 0.9400 test_aum 0.8973
+ep6 loss 0.504 test 0.9587 test_aum 0.9113
+ep7 loss 0.478 test 0.9667 test_aum 0.9080
+ep8 loss 0.450 test 0.9680 test_aum 0.9007
+ep9 loss 0.412 test 0.9767 test_aum 0.9127
+ep10 loss 0.390 test 0.9740 test_aum 0.9167
+ep11 loss 0.377 test 0.9787 test_aum 0.9167
+ep12 loss 0.366 test 0.9767 test_aum 0.9167
+ep13 loss 0.353 test 0.9780 test_aum 0.9193
+ep14 loss 0.343 test 0.9780 test_aum 0.9200
+ep15 loss 0.337 test 0.9793 test_aum 0.9213
+ep16 loss 0.332 test 0.9820 test_aum 0.9193
+ep17 loss 0.329 test 0.9813 test_aum 0.9227
+ep18 loss 0.326 test 0.9813 test_aum 0.9233
+ep19 loss 0.325 test 0.9807 test_aum 0.9253
+ep20 loss 0.324 test 0.9807 test_aum 0.9240
+exportado

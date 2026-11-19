@@ -1,0 +1,70 @@
+{
+  "unidades": [
+    {
+      "codigo": "SIMCE-U1",
+      "nombre": "Unidad 1 · Números y cálculo",
+      "OA": [
+        "OA1",
+        "OA3"
+      ]
+    },
+    {
+      "codigo": "SIMCE-U2",
+      "nombre": "Unidad 2 · Multiplicación, división y dinero",
+      "OA": [
+        "OA5",
+        "OA6",
+        "OA7"
+      ]
+    },
+    {
+      "codigo": "SIMCE-U3",
+      "nombre": "Unidad 3 · Fracciones",
+      "OA": [
+        "OA8",
+        "OA9"
+      ]
+    },
+    {
+      "codigo": "SIMCE-U4",
+      "nombre": "Unidad 4 · Patrones y álgebra",
+      "OA": [
+        "OA13",
+        "OA14"
+      ]
+    },
+    {
+      "codigo": "SIMCE-U5",
+      "nombre": "Unidad 5 · Geometría, medición y datos",
+      "OA": [
+        "OA17",
+        "OA18",
+        "OA22",
+        "OA23",
+        "OA27"
+      ]
+    }
+  ],
+  "counts": {
+    "practice_sets": 17,
+    "unit_exam_questions": 60,
+    "final_questions": 40
+  },
+  "coverage": {
+    "OA1": 29,
+    "OA3": 19,
+    "OA5": 17,
+    "OA6": 17,
+    "OA7": 17,
+    "OA8": 29,
+    "OA9": 18,
+    "OA13": 18,
+    "OA14": 28,
+    "OA17": 16,
+    "OA18": 16,
+    "OA22": 15,
+    "OA23": 15,
+    "OA27": 16
+  },
+  "totalPreguntas": 270
+}

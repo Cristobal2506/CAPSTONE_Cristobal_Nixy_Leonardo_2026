@@ -1,0 +1,15 @@
+# Base de datos local para desarrollo: `docker compose up -d`
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: rumbo
+      POSTGRES_PASSWORD: rumbo
+      POSTGRES_DB: rumbo_simce
+    ports:
+      - "5433:5432"   # 5433 para no chocar con un PostgreSQL ya instalado en el PC
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./backend/scripts/init-test-db.sql:/docker-entrypoint-initdb.d/init-test-db.sql:ro
+volumes:
+  pgdata:

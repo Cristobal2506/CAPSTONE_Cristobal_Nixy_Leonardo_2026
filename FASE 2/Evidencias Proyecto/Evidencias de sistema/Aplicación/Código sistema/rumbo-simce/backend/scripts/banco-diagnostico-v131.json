@@ -1,0 +1,1322 @@
+[
+  {
+    "codigo": "V131-D01",
+    "unidad": 1,
+    "oa": "OA1",
+    "habilidad": "valor_posicional_marcado",
+    "enunciado": "En 6.[[4]]82, ¿qué valor representa el dígito destacado?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "40",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "400",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4.000",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "400",
+    "explicacion": "El 4 está en las centenas: representa 400.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D02",
+    "unidad": 1,
+    "oa": "OA1",
+    "habilidad": "ordenar_tres_numeros",
+    "enunciado": "Ordena de menor a mayor: 4.809, 4.098 y 4.890.",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "4.098 < 4.809 < 4.890",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "4.809 < 4.098 < 4.890",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4.890 < 4.809 < 4.098",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4.098 < 4.890 < 4.809",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "4.098 < 4.809 < 4.890",
+    "explicacion": "Compara las centenas, luego las decenas y las unidades; todos tienen 4 miles.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D03",
+    "unidad": 1,
+    "oa": "OA1",
+    "habilidad": "escritura_numero_palabras",
+    "enunciado": "En una biblioteca registraron «ocho mil setenta y cinco» visitas. ¿Cómo se escribe esa cantidad en cifras?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "8.750",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8.075",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "8.705",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "8.057",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "8.075",
+    "explicacion": "Ocho mil es 8.000; setenta y cinco es 75. Sumados dan 8.075.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D04",
+    "unidad": 1,
+    "oa": "OA1",
+    "habilidad": "descomponer_aditivamente",
+    "enunciado": "¿Cuál descomposición corresponde al número 6.304?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "6.000 + 30 + 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "6.000 + 300 + 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "600 + 300 + 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6.000 + 300 + 40",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "6.000 + 300 + 4",
+    "explicacion": "6.304 tiene 6 millares, 3 centenas, cero decenas y 4 unidades.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D05",
+    "unidad": 1,
+    "oa": "OA3",
+    "habilidad": "suma_cuatro_sumandos",
+    "enunciado": "En una colecta llegaron 125 tapitas el lunes, 75 el martes, 160 el miércoles y 40 el jueves. ¿Cuántas juntaron?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "360",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "390",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "400",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "410",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "400",
+    "explicacion": "125 + 75 + 160 + 40 = 400.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D06",
+    "unidad": 1,
+    "oa": "OA3",
+    "habilidad": "resta_cambio_monedas",
+    "enunciado": "Una entrada cuesta $685. Si pagas con $1.000, ¿cuánto vuelto recibes?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "$315",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "$325",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "$415",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "$285",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "$315",
+    "explicacion": "1.000 − 685 = 315 pesos.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D07",
+    "unidad": 1,
+    "oa": "OA3",
+    "habilidad": "estimacion_resultado",
+    "enunciado": "Para calcular mentalmente 398 + 207, ¿cuál es la mejor estimación a la centena más cercana?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "400",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "500",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "600",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "700",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "600",
+    "explicacion": "398 se aproxima a 400 y 207 a 200; juntos suman aproximadamente 600.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D08",
+    "unidad": 1,
+    "oa": "OA1",
+    "habilidad": "numero_entre",
+    "enunciado": "En una recta numérica aparecen 3.450 y 3.550. ¿Cuál número está exactamente a mitad de camino?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "3.400",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3.475",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3.500",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "3.600",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "3.500",
+    "explicacion": "La distancia es 100; el punto medio está a 50 de cada extremo.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D09",
+    "unidad": 2,
+    "oa": "OA5",
+    "habilidad": "multiplicar_produccion",
+    "enunciado": "Una imprenta produce 124 etiquetas cada mañana. ¿Cuántas produce en 3 mañanas?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "327",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "372",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "412",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "124",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "372",
+    "explicacion": "124 × 3 = 372 etiquetas.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D10",
+    "unidad": 2,
+    "oa": "OA5",
+    "habilidad": "propiedad_distributiva",
+    "enunciado": "Para resolver 203 × 4, Catalina separó 203 en 200 + 3. ¿Qué operación representa su estrategia?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "200 × 4 + 3 × 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "200 + 3 × 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "203 + 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "200 × 3 + 4",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "200 × 4 + 3 × 4",
+    "explicacion": "La propiedad distributiva multiplica cada parte por 4.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D11",
+    "unidad": 2,
+    "oa": "OA5",
+    "habilidad": "aproximar_producto",
+    "enunciado": "Un taller fabrica 398 piezas por turno y trabaja dos turnos. ¿Qué estimación es más razonable?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "Cerca de 400",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Cerca de 600",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Cerca de 800",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Cerca de 1.600",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "Cerca de 800",
+    "explicacion": "398 es casi 400; 400 × 2 ≈ 800.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D12",
+    "unidad": 2,
+    "oa": "OA6",
+    "habilidad": "division_reparto",
+    "enunciado": "Hay 84 plantas para repartir equitativamente entre 7 salas. ¿Cuántas plantas recibe cada sala?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "11",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "13",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "14",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "12",
+    "explicacion": "84 ÷ 7 = 12.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D13",
+    "unidad": 2,
+    "oa": "OA6",
+    "habilidad": "inversa_multiplicacion",
+    "enunciado": "Si 9 × 8 = 72, ¿qué división se puede deducir sin calcular de nuevo?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "72 ÷ 8 = 9",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "72 ÷ 9 = 9",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "72 ÷ 8 = 8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "72 ÷ 6 = 8",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "72 ÷ 8 = 9",
+    "explicacion": "Multiplicación y división son operaciones inversas.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D14",
+    "unidad": 2,
+    "oa": "OA7",
+    "habilidad": "dinero_dos_operaciones",
+    "enunciado": "Compras tres lápices de $275 cada uno y pagas con $1.000. ¿Cuánto vuelto recibes?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "$125",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "$175",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "$225",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "$275",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "$175",
+    "explicacion": "3 × 275 = 825; 1.000 − 825 = 175.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D15",
+    "unidad": 2,
+    "oa": "OA7",
+    "habilidad": "elegir_operacion",
+    "enunciado": "Para averiguar cuánto cuestan 4 cuadernos de $450 cada uno, ¿qué operación conviene usar?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "450 − 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "450 × 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "450 ÷ 4",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "450 + 4",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "450 × 4",
+    "explicacion": "Se sumaría 450 cuatro veces; la multiplicación lo expresa directamente.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D16",
+    "unidad": 2,
+    "oa": "OA6",
+    "habilidad": "division_descomposicion",
+    "enunciado": "Daniel separó 96 ÷ 4 en (80 ÷ 4) + (16 ÷ 4). ¿Cuál es el resultado de su estrategia?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "22",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "24",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "26",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "24",
+    "explicacion": "80 ÷ 4 = 20 y 16 ÷ 4 = 4; total 24.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D17",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "fraccion_en_cuadricula",
+    "enunciado": "Ocho casillas iguales forman una fila: ● ● ● ○ ○ ○ ○ ○. ¿Qué fracción está marcada con ●?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "3/5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "8/3",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "3/8",
+    "explicacion": "Hay 3 casillas marcadas de 8 casillas totales.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D18",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "fraccion_de_grupo",
+    "enunciado": "En un set hay 12 fichas; 5 son azules. ¿Qué fracción de las fichas es azul?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "5/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "7/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/7",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "12/5",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "5/12",
+    "explicacion": "De las 12 fichas, 5 cumplen la condición.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D19",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "fraccion_recta_numerica",
+    "enunciado": "En la recta de 0 a 1 se marca el punto justo en medio. ¿Qué fracción corresponde?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "1/3",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "1/4",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/2",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "2/3",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "1/2",
+    "explicacion": "El punto medio divide la unidad en dos partes iguales.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D20",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "comparacion_mismo_denominador",
+    "enunciado": "En una carrera, Antonia completó 3/6 del recorrido y Benjamín 5/6. ¿Quién avanzó más?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "Antonia",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Benjamín",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Ambos igual",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "No se puede comparar",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "Benjamín",
+    "explicacion": "Con denominador igual, 5 sextos es mayor que 3 sextos.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D21",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "fraccion_de_cantidad",
+    "enunciado": "Una receta pide usar 1/4 de 20 nueces. ¿Cuántas nueces necesitas?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "4",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "16",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "5",
+    "explicacion": "La cuarta parte de 20 es 20 ÷ 4 = 5.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D22",
+    "unidad": 3,
+    "oa": "OA9",
+    "habilidad": "sumar_fracciones_pictoricas",
+    "enunciado": "Se colorean 2/8 de una cinta por la mañana y 3/8 por la tarde. Sin superponer partes, ¿cuánto quedó coloreado?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "5/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/16",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "1/8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6/8",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "5/8",
+    "explicacion": "Como las partes son octavos, 2 + 3 = 5 octavos.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D23",
+    "unidad": 3,
+    "oa": "OA9",
+    "habilidad": "restar_fracciones_contexto",
+    "enunciado": "Una jarra contiene 9/12 de litro de jugo y se sirven 4/12. ¿Cuánto queda?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "13/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "5/12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "5/24",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4/12",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "5/12",
+    "explicacion": "9/12 − 4/12 = 5/12.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D24",
+    "unidad": 3,
+    "oa": "OA8",
+    "habilidad": "fracciones_equivalentes",
+    "enunciado": "En un dibujo, la mitad del rectángulo está pintada. Si ahora lo divides en 8 partes iguales, ¿cuántas quedarían pintadas?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "2 de 8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3 de 8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "4 de 8",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "6 de 8",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "4 de 8",
+    "explicacion": "La mitad de ocho partes iguales son cuatro.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D25",
+    "unidad": 4,
+    "oa": "OA13",
+    "habilidad": "patron_alternado",
+    "enunciado": "El contador sigue este patrón: +5, −2, +5, −2… Comienza en 10: 10, 15, 13, 18, 16, __.",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "19",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "20",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "21",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "23",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "21",
+    "explicacion": "Después de 16 corresponde sumar 5.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D26",
+    "unidad": 4,
+    "oa": "OA13",
+    "habilidad": "tabla_entrada_salida",
+    "enunciado": "Una máquina suma siempre 6. Si ingresas 2 sale 8, y si ingresas 3 sale 9. ¿Qué saldrá si ingresas 11?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "18",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "17",
+    "explicacion": "La máquina suma 6: 11 + 6 = 17.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D27",
+    "unidad": 4,
+    "oa": "OA13",
+    "habilidad": "detectar_error_secuencia",
+    "enunciado": "Un estudiante escribió 4, 8, 12, 17, 20 y dijo que sumó 4 cada vez. ¿Qué número debe corregir?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "17",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "17",
+    "explicacion": "Después de 12 corresponde 16, no 17.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D28",
+    "unidad": 4,
+    "oa": "OA13",
+    "habilidad": "patron_duplicacion",
+    "enunciado": "Un microorganismo se duplica en cada etapa: 3, 6, 12, 24, __. ¿Qué número sigue?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "30",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "42",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "48",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "D",
+    "respuesta": "48",
+    "explicacion": "Cada término es el doble del anterior.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D29",
+    "unidad": 4,
+    "oa": "OA14",
+    "habilidad": "ecuacion_suma_desconocida",
+    "enunciado": "Una caja contiene cierta cantidad de cartas. Si agregamos 17, quedan 53. ¿Cuántas había?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "34",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "35",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "36",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "37",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "36",
+    "explicacion": "x + 17 = 53; x = 53 − 17 = 36.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D30",
+    "unidad": 4,
+    "oa": "OA14",
+    "habilidad": "inecuacion_limite",
+    "enunciado": "Un ascensor admite menos de 12 personas. Ya hay 5. ¿Cuál de estas cantidades adicionales mantiene la regla?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "8",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "6",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "9",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "6",
+    "explicacion": "5 + 6 = 11, menor que 12; 7 llegaría a 12.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D31",
+    "unidad": 4,
+    "oa": "OA14",
+    "habilidad": "ecuacion_diferencia",
+    "enunciado": "Un termo tenía una cantidad de mililitros de agua. Se usaron 26 y quedaron 19. ¿Cuánto tenía originalmente?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "7",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "45",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "44",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "47",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "45",
+    "explicacion": "x − 26 = 19, por eso x = 19 + 26 = 45.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D32",
+    "unidad": 4,
+    "oa": "OA14",
+    "habilidad": "balanza_equilibrio",
+    "enunciado": "Una balanza está equilibrada. A la izquierda hay 28 cubos; a la derecha, 10 cubos y una bolsa cerrada. ¿Cuántos cubos hay en la bolsa?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "12",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "16",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "18",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "38",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "18",
+    "explicacion": "La bolsa debe contener 28 − 10 = 18 cubos.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D33",
+    "unidad": 5,
+    "oa": "OA17",
+    "habilidad": "ejes_de_simetria",
+    "enunciado": "¿Cuál figura, dibujada con sus lados habituales, tiene exactamente 2 ejes de simetría?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "Un rectángulo que no es cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Un triángulo escaleno",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Un cuadrado",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Un paralelogramo oblicuo",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "Un rectángulo que no es cuadrado",
+    "explicacion": "Tiene un eje vertical y uno horizontal; el cuadrado tiene cuatro.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D34",
+    "unidad": 5,
+    "oa": "OA18",
+    "habilidad": "reflexion_orientacion",
+    "enunciado": "Una flecha apunta a la derecha (→). La reflejas en un espejo vertical. ¿Hacia dónde apunta su reflejo?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "Derecha (→)",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Izquierda (←)",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Arriba (↑)",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Abajo (↓)",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "Izquierda (←)",
+    "explicacion": "La reflexión horizontal en un espejo vertical invierte derecha e izquierda.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D35",
+    "unidad": 5,
+    "oa": "OA18",
+    "habilidad": "rotacion_media_vuelta",
+    "enunciado": "Una flecha apunta hacia arriba (↑). Después de girarla 180°, ¿hacia dónde apunta?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "Arriba (↑)",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "Derecha (→)",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "Abajo (↓)",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "Izquierda (←)",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "Abajo (↓)",
+    "explicacion": "Media vuelta invierte la orientación de arriba a abajo.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D36",
+    "unidad": 5,
+    "oa": "OA18",
+    "habilidad": "traslacion_coordenadas",
+    "enunciado": "En una cuadrícula, un punto está en (2, 3). Se traslada 4 casillas a la derecha, sin cambiar su altura. ¿Dónde queda?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "(2, 7)",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "(6, 3)",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "(4, 3)",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "(6, 7)",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "(6, 3)",
+    "explicacion": "La traslación suma 4 a la primera coordenada y deja la segunda igual.",
+    "dificultad": 4
+  },
+  {
+    "codigo": "V131-D37",
+    "unidad": 5,
+    "oa": "OA22",
+    "habilidad": "convertir_longitud",
+    "enunciado": "Una cinta mide 3 metros y 45 centímetros. ¿Cuántos centímetros mide en total?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "345 cm",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "3045 cm",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "75 cm",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "305 cm",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "A",
+    "respuesta": "345 cm",
+    "explicacion": "3 metros = 300 cm; 300 + 45 = 345 cm.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D38",
+    "unidad": 5,
+    "oa": "OA23",
+    "habilidad": "area_con_unidades",
+    "enunciado": "Un patio rectangular mide 7 metros de largo y 4 de ancho. ¿Cuál es su área?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "11 m²",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "22 m²",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "28 m²",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "28 m",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "28 m²",
+    "explicacion": "Área = largo × ancho = 7 × 4 = 28 metros cuadrados.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D39",
+    "unidad": 5,
+    "oa": "OA27",
+    "habilidad": "pictograma_con_escala",
+    "enunciado": "En un pictograma cada ★ representa 2 libros. El lunes aparecen ★★★ y el martes ★★. ¿Cuántos libros más se registraron el lunes?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "1 libro",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "2 libros",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "3 libros",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "4 libros",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "B",
+    "respuesta": "2 libros",
+    "explicacion": "Lunes 6, martes 4; diferencia 2 libros.",
+    "dificultad": 3
+  },
+  {
+    "codigo": "V131-D40",
+    "unidad": 5,
+    "oa": "OA27",
+    "habilidad": "grafico_barras_escalado",
+    "enunciado": "En un gráfico de barras las marcas del eje vertical son 0, 5, 10, 15, 20. La barra del jueves llega a la tercera marca sobre el cero. ¿Qué cantidad representa?",
+    "opciones": [
+      {
+        "clave": "A",
+        "texto": "5",
+        "tipo_error": null
+      },
+      {
+        "clave": "B",
+        "texto": "10",
+        "tipo_error": null
+      },
+      {
+        "clave": "C",
+        "texto": "15",
+        "tipo_error": null
+      },
+      {
+        "clave": "D",
+        "texto": "20",
+        "tipo_error": null
+      }
+    ],
+    "respuesta_correcta": "C",
+    "respuesta": "15",
+    "explicacion": "Las marcas sobre cero corresponden 5, 10 y 15.",
+    "dificultad": 3
+  }
+]

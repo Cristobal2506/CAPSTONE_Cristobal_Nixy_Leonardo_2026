@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Rumbo SIMCE · Prueba de escritura de números</title>
+<style>
+  :root { --azul:#1B3A5C; --sol:#F2B33D; --fondo:#EEF3F7; --suave:#5B6B7C; --ok:#2E8B57; --mal:#C0392B; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background:var(--fondo); color:#1d2733; }
+  main { max-width: 900px; margin: 0 auto; padding: 16px; }
+  h1 { color:var(--azul); font-size: 1.5rem; margin: 4px 0 2px; }
+  p.sub { color:var(--suave); margin: 0 0 14px; }
+  .formatos { display:flex; gap:8px; margin-bottom:10px; flex-wrap: wrap; }
+  .formatos button.activo { background:var(--azul); color:#fff; }
+  canvas { width:100%; height: 260px; background:#fff; border:2px dashed #AABBCD; border-radius:16px; touch-action:none; display:block; }
+  .acciones { display:flex; gap:8px; margin:10px 0; flex-wrap: wrap; }
+  button { font: inherit; font-weight: 800; font-size: 1.05rem; min-height: 52px; padding: 0 18px; border-radius: 14px;
+           border: 2px solid var(--azul); background:#fff; color:var(--azul); cursor:pointer; }
+  button.primario { background:var(--azul); color:#fff; }
+  button:disabled { opacity:.5; }
+  .resultado { background:#FFF8E5; border:1px solid var(--sol); border-radius:16px; padding:14px; min-height: 90px; }
+  .leido { font-size: 3rem; font-weight: 900; color:var(--azul); letter-spacing: 3px; }
+  .digitos { display:flex; gap:10px; flex-wrap: wrap; margin-top: 8px; }
+  .digito { background:#fff; border-radius:12px; padding:8px 10px; border-left:5px solid var(--ok); min-width: 92px; }
+  .digito.dudoso { border-left-color: var(--mal); }
+  .digito b { font-size: 1.6rem; color: var(--azul); }
+  .digito small { display:block; color: var(--suave); }
+  .aviso { color: var(--mal); font-weight: 700; }
+  .ayuda { color: var(--suave); font-size: .95rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Prueba de escritura de números</h1>
+  <p class="sub">Escribe un número con el dedo o con el lápiz y pulsa «Leer». Así funciona la respuesta escrita del diagnóstico y los facsímiles.</p>
+
+  <div class="formatos" role="group" aria-label="Formato">
+    <button data-f="entero" class="activo">Número entero</button>
+    <button data-f="decimal">Número decimal (con coma)</button>
+  </div>
+
+  <canvas id="lienzo" aria-label="Espacio para escribir"></canvas>
+
+  <div class="acciones">
+    <button id="deshacer">↶ Deshacer</button>
+    <button id="borrar">🗑 Borrar</button>
+    <button id="leer" class="primario">Leer mi número</button>
+  </div>
+
+  <div class="resultado" id="resultado"><span class="ayuda">Aquí aparecerá lo que leyó el sistema.</span></div>
+  <p class="ayuda">Consejo: escribe cada cifra separada de la siguiente, de un tamaño parecido. La coma, pequeña y abajo.</p>
+</main>
+<script>
+const lienzo = document.getElementById('lienzo'), ctx = lienzo.getContext('2d');
+let trazos = [], actual = null, formato = 'entero';
+function ajustar() {
+  const r = lienzo.getBoundingClientRect(), dpr = window.devicePixelRatio || 1;
+  lienzo.width = r.width * dpr; lienzo.height = r.height * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0); dibujar();
+}
+function dibujar() {
+  const r = lienzo.getBoundingClientRect();
+  ctx.clearRect(0, 0, r.width, r.height);
+  ctx.strokeStyle = '#D5DEE7'; ctx.lineWidth = 1; ctx.beginPath(); ctx.moveTo(16, r.height * .78); ctx.lineTo(r.width - 16, r.height * .78); ctx.stroke();
+  ctx.strokeStyle = '#1B3A5C'; ctx.lineWidth = 7; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+  for (const t of [...trazos, ...(actual ? [actual] : [])]) {
+    ctx.beginPath(); ctx.moveTo(t[0][0], t[0][1]);
+    for (const [x, y] of t) ctx.lineTo(x, y);
+    if (t.length === 1) ctx.lineTo(t[0][0] + .1, t[0][1]);
+    ctx.stroke();
+  }
+}
+const pos = (e) => { const r = lienzo.getBoundingClientRect(); return [Math.round(e.clientX - r.left), Math.round(e.clientY - r.top)]; };
+lienzo.addEventListener('pointerdown', (e) => { lienzo.setPointerCapture(e.pointerId); actual = [pos(e)]; dibujar(); });
+lienzo.addEventListener('pointermove', (e) => {
+  if (!actual) return; const p = pos(e), u = actual[actual.length - 1];
+  if (Math.hypot(p[0] - u[0], p[1] - u[1]) >= 2.5) { actual.push(p); dibujar(); }
+});
+const fin = () => { if (actual) { trazos.push(actual); actual = null; dibujar(); } };
+lienzo.addEventListener('pointerup', fin); lienzo.addEventListener('pointercancel', fin);
+document.getElementById('deshacer').onclick = () => { trazos.pop(); dibujar(); };
+document.getElementById('borrar').onclick = () => { trazos = []; dibujar(); document.getElementById('resultado').innerHTML = '<span class="ayuda">Aquí aparecerá lo que leyó el sistema.</span>'; };
+document.querySelectorAll('.formatos button').forEach((b) => b.onclick = () => {
+  formato = b.dataset.f; document.querySelectorAll('.formatos button').forEach((x) => x.classList.toggle('activo', x === b));
+});
+document.getElementById('leer').onclick = async () => {
+  const out = document.getElementById('resultado');
+  if (!trazos.length) { out.innerHTML = '<span class="aviso">Primero escribe un número.</span>'; return; }
+  out.textContent = 'Leyendo…';
+  try {
+    const r = await fetch('reconocer', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ trazos, formato }) });
+    const { lectura, ms } = await r.json();
+    const ds = lectura.caracteres.map((c) => c.tipo === 'separador' ? '<div class="digito"><b>,</b><small>coma</small></div>' :
+      `<div class="digito ${c.confianza < .7 ? 'dudoso' : ''}"><b>${c.valor}</b><small>${Math.round(c.confianza * 100)} % seguro</small>` +
+      `<small>otras: ${c.alternativas.map((a) => `${a.valor} (${Math.round(a.confianza * 100)} %)`).join(', ')}</small></div>`).join('');
+    out.innerHTML = `<div>Leí:</div><div class="leido">${lectura.texto || '—'}</div>` +
+      (lectura.dudoso ? '<div class="aviso">No estoy seguro: en la app el alumno debe confirmar o corregir.</div>' : '') +
+      `<div class="digitos">${ds}</div><div class="ayuda">${ms} ms</div>`;
+  } catch (e) { out.innerHTML = '<span class="aviso">No se pudo conectar con el servidor de demostración.</span>'; }
+};
+window.addEventListener('resize', ajustar); ajustar();
+</script>
+</body>
+</html>

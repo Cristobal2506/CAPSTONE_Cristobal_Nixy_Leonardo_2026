@@ -1,0 +1,24 @@
+RUMBO SIMCE v16.4 - MODELOS Y DICCIONARIO DE BASE DE DATOS
+
+Fuente: migrations/001..014, seeds/001..011 y scripts/migrate.js del ZIP final.
+
+Alcance del modelo:
+- 30 tablas funcionales definidas en SQL.
+- 1 tabla adicional de control de migraciones: schema_migrations (creada por script).
+- 222 columnas documentadas, 51 relaciones de clave foránea.
+- PostgreSQL 16, modelo relacional; NoSQL NO APLICA.
+
+MODELO LOGICO: relaciones funcionales de alto nivel, orientado a comprensión del sistema.
+MODELO RELACIONAL: vista general + 4 vistas por módulo con campos y claves.
+DICCIONARIO XLSX: hojas Resumen, Diccionario, Relaciones FK, Indices y Scripts.
+
+NOTAS TECNICAS:
+- Se documentan las tablas heredadas sesion/respuesta por trazabilidad, aunque el flujo
+  pedagógico vigente utiliza intento/intento_respuesta y evaluacion_intento.
+- Los datos del lector manuscrito se guardan como JSONB en columnas trazos, junto con
+  la respuesta confirmada; no existe una base documental NoSQL aparte.
+- Los tokens LiveKit se emiten desde backend y NO se almacenan en tablas PostgreSQL.
+- Los PDF y PNG son representaciones de las migraciones, no exportaciones desde un
+  catálogo vivo de una instancia PostgreSQL. La implementación se valida ejecutando
+  las migraciones contra una base local descartable.
+- ON DELETE no indicado en SQL usa la acción predeterminada de PostgreSQL: NO ACTION.

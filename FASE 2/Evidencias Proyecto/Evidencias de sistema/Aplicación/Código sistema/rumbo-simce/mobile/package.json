@@ -1,0 +1,42 @@
+{
+  "name": "rumbo-simce-mobile",
+  "version": "1.0.14",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~57.0.30",
+    "expo-secure-store": "~57.0.4",
+    "expo-splash-screen": "~57.0.11",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "expo-dev-client": "~57.0.19",
+    "@livekit/react-native": "3.1.0",
+    "@livekit/react-native-expo-plugin": "1.1.0",
+    "@livekit/react-native-webrtc": "150.1.0",
+    "@config-plugins/react-native-webrtc": "15.0.2",
+    "livekit-client": "2.23.0",
+    "react-native-safe-area-context": "~5.7.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "prebuild:android": "expo prebuild --platform android --clean && node scripts/preparar-android-v14.cjs",
+    "android:dev": "expo run:android",
+    "start:dev": "expo start --dev-client -c",
+    "verificar:v13": "node scripts/verificar-v13.cjs",
+    "preparar:android:v13": "node scripts/preparar-android-v13.cjs",
+    "verificar:v13.1": "node scripts/verificar-v131.cjs",
+    "preparar:android:v13.1": "node scripts/preparar-android-v131.cjs",
+    "verificar:v14": "node scripts/verificar-v14.cjs",
+    "preparar:android:v14": "node scripts/preparar-android-v14.cjs",
+    "verificar:v16": "node scripts/verificar-v16.cjs"
+  },
+  "private": true
+}

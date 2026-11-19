@@ -1,0 +1,23 @@
+// Verificacion de estructura app sin instalar dependencias.
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=path.join(__dirname,'..');
+const read=p=>fs.readFileSync(path.join(root,p),'utf8');
+const header=read('src/components/CabeceraSesion.tsx');
+const app=read('App.tsx');
+const exam=read('src/screens/RendirEvaluacion.tsx');
+const tanda=read('src/screens/Tanda.tsx');
+const adulto=read('src/screens/PanelAdulto.tsx');
+const camino=read('src/screens/MiCamino.tsx');
+const pkg=JSON.parse(read('package.json'));
+assert(header.includes('setInterval(cargar,15000)')&&header.includes('sinLeer>0')&&header.includes('insignia'));
+assert(header.includes('⚙️')&&header.includes('Salir del examen'));
+assert(app.includes('<CabeceraSesion')&&app.includes('<Modal')&&app.includes('<Notificaciones'));
+assert(!exam.includes('Salir (las respuestas se guardan)'));
+assert(!tanda.includes('Salir (tu tanda queda guardada)'));
+assert(!adulto.includes('titulo={`Notificaciones'));
+assert(!camino.includes('titulo="Mis notificaciones"'));
+assert(pkg.dependencies['react-native-safe-area-context']==='~5.7.0');
+assert(read('src/screens/SalaLiveKit.tsx').includes('LiveKitRoom'));
+assert(!fs.existsSync(path.join(root,'.env')));
+console.log('OK: campanita global y badge, engranaje en tareas, botones inferiores retirados, LiveKit conservado.');
+console.log('Validacion estructural; compilacion APK pendiente.');

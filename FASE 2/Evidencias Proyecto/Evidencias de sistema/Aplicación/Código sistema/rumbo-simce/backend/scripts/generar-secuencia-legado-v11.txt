@@ -1,0 +1,183 @@
+// Genera seeds/004_secuencia_numeros.sql — secuencia Kumon PROVISORIA de Números y operaciones (CU18).
+//   node scripts/generar-secuencia.js
+//
+// Por qué un generador: los ejercicios de práctica Kumon son ejercicios de cálculo; aquí la respuesta
+// correcta y cada distractor (con su error típico) se CALCULAN, así no hay errores de contenido.
+// Es determinista (misma semilla → mismo archivo). Cuando lleguen los facsímiles oficiales del cliente
+// se reemplaza este contenido; la estructura (nivel → conjunto → hoja con ejemplo → ejercicios) se mantiene.
+//
+// Dosis provisoria: cada conjunto (tanda diaria) = 2 hojas × 3 ejercicios. Tiempos estándar provisorios:
+// los debe fijar el profesor Kumon. Objetivos de aprendizaje: etiquetas provisorias a validar con el temario.
+const fs = require('fs');
+const path = require('path');
+
+let semilla = 20261020;
+function azar() { // mulberry32
+  semilla |= 0; semilla = (semilla + 0x6D2B79F5) | 0;
+  let t = Math.imul(semilla ^ (semilla >>> 15), 1 | semilla);
+  t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+  return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+}
+const entre = (a, b) => a + Math.floor(azar() * (b - a + 1));
+const mezclar = (xs) => { const a = [...xs]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(azar() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const fmt = (n) => n.toLocaleString('es-CL'); // 3.482
+const digitos = (n, k) => String(n).padStart(k, '0').split('').map(Number);
+const POS = ['unidades', 'decenas', 'centenas', 'unidades de mil'];
+const POS1 = ['unidad', 'decena', 'centena', 'unidad de mil'];
+const cuantas = (x, i) => `${x} ${x === 1 ? POS1[i] : POS[i]}`; // «1 centena», «7 centenas»
+
+/** Arma las opciones A–D: la correcta y 3 distractores distintos, cada uno con su tipo de error. */
+function opciones(correcta, distractores) {
+  const usados = new Set([String(correcta)]);
+  const ds = [];
+  for (const d of distractores) {
+    if (ds.length === 3) break;
+    if (d.valor === null || d.valor < 0 || usados.has(String(d.valor))) continue;
+    usados.add(String(d.valor)); ds.push(d);
+  }
+  if (ds.length < 3) return null;
+  const todas = mezclar([{ valor: correcta, tipo: null }, ...ds]);
+  return {
+    opciones: todas.map((o, i) => ({ clave: 'ABCD'[i], texto: typeof o.valor === 'number' ? fmt(o.valor) : o.valor, tipo_error: o.tipo })),
+    correcta: 'ABCD'[todas.findIndex((o) => o.tipo === null)],
+  };
+}
+
+// ───────── Generadores de ejercicios ─────────
+const generadores = {
+  valorPosicional() {
+    for (;;) {
+      const ds = mezclar([1, 2, 3, 4, 5, 6, 7, 8, 9]).slice(0, 4);
+      const n = Number(ds.join(''));
+      const p = entre(0, 3); // 0 = unidades
+      const d = ds[3 - p];
+      const o = opciones(d * 10 ** p, [0, 1, 2, 3].filter((k) => k !== p).map((k) => ({ valor: d * 10 ** k, tipo: 'valor_posicional' })));
+      if (!o) continue;
+      return {
+        enunciado: `¿Cuál es el valor del dígito ${d} en el número ${fmt(n)}?`,
+        ...o,
+        explicacion: `El ${d} está en las ${POS[p]}: vale ${d} × ${fmt(10 ** p)} = ${fmt(d * 10 ** p)}.`,
+        ejemplo: () => ({
+          enunciado: `¿Cuál es el valor del dígito ${d} en el número ${fmt(n)}?`,
+          resolucion: `${fmt(n)} tiene ${ds.map((x, i) => cuantas(x, 3 - i)).join(', ')}.\nEl ${d} está en las ${POS[p]}.\nVale ${d} × ${fmt(10 ** p)} = ${fmt(d * 10 ** p)}.`,
+        }),
+      };
+    }
+  },
+  sumaConReserva() {
+    for (;;) {
+      const a = entre(120, 689); const b = entre(110, 299);
+      const [ac, ad, au] = digitos(a, 3); const [bc, bd, bu] = digitos(b, 3);
+      if (au + bu < 10 || a + b > 999) continue;
+      const sinReserva = ((ac + bc) % 10) * 100 + ((ad + bd) % 10) * 10 + ((au + bu) % 10);
+      const s = a + b;
+      const o = opciones(s, [
+        { valor: sinReserva, tipo: 'reserva_suma' },
+        { valor: Math.abs(a - b), tipo: 'operacion_equivocada' },
+        { valor: s + 10, tipo: 'calculo' }, { valor: s - 10, tipo: 'calculo' },
+      ]);
+      if (!o) continue;
+      const u = au + bu; const d2 = ad + bd + 1;
+      return {
+        enunciado: `¿Cuánto es ${a} + ${b}?`,
+        ...o,
+        explicacion: `Unidades: ${au} + ${bu} = ${u}, se anota ${u % 10} y se lleva 1. Resultado: ${s}.`,
+        ejemplo: () => ({
+          enunciado: `${a} + ${b}`,
+          resolucion: `Unidades: ${au} + ${bu} = ${u} → escribo ${u % 10} y llevo 1.\n`
+            + `Decenas: ${ad} + ${bd} + 1 = ${d2}${d2 >= 10 ? ` → escribo ${d2 % 10} y llevo 1` : ''}.\n`
+            + `Centenas: ${ac} + ${bc}${d2 >= 10 ? ' + 1' : ''} = ${ac + bc + (d2 >= 10 ? 1 : 0)}.\nResultado: ${s}.`,
+        }),
+      };
+    }
+  },
+  restaConCanje() {
+    for (;;) {
+      const a = entre(312, 987); const b = entre(105, a - 100);
+      const [ac, ad, au] = digitos(a, 3); const [bc, bd, bu] = digitos(b, 3);
+      if (!(au < bu && ad > bd && ac >= bc)) continue; // un solo canje, desde las decenas
+      const invertida = Math.abs(ac - bc) * 100 + Math.abs(ad - bd) * 10 + Math.abs(au - bu);
+      const r = a - b;
+      const o = opciones(r, [
+        { valor: invertida, tipo: 'resta_invertida' },
+        { valor: a + b, tipo: 'operacion_equivocada' },
+        { valor: r + 10, tipo: 'calculo' }, { valor: r - 10, tipo: 'calculo' },
+      ]);
+      if (!o) continue;
+      return {
+        enunciado: `¿Cuánto es ${a} − ${b}?`,
+        ...o,
+        explicacion: `A ${au} no se le puede restar ${bu}: se canjea 1 decena por 10 unidades. Resultado: ${r}.`,
+        ejemplo: () => ({
+          enunciado: `${a} − ${b}`,
+          resolucion: `Unidades: a ${au} no le puedo restar ${bu}. Canjeo 1 decena: ${au + 10} − ${bu} = ${au + 10 - bu}.\n`
+            + `Decenas: ${ad === 2 ? 'me queda' : 'me quedan'} ${ad - 1}; ${ad - 1} − ${bd} = ${ad - 1 - bd}.\nCentenas: ${ac} − ${bc} = ${ac - bc}.\nResultado: ${r}.`,
+        }),
+      };
+    }
+  },
+  tablas() {
+    for (;;) {
+      const a = entre(6, 9); const b = entre(3, 9);
+      const o = opciones(a * b, [
+        { valor: a + b, tipo: 'operacion_equivocada' },
+        { valor: a * (b + 1), tipo: 'tabla_multiplicar' },
+        { valor: a * (b - 1), tipo: 'tabla_multiplicar' },
+      ]);
+      if (!o) continue;
+      return {
+        enunciado: `¿Cuánto es ${a} × ${b}?`,
+        ...o,
+        explicacion: `${a} × ${b} es sumar ${b} veces el ${a}: ${a * b}.`,
+        ejemplo: () => ({
+          enunciado: `${a} × ${b}`,
+          resolucion: `${a} × ${b} es ${b} veces el ${a}: ${Array(b).fill(a).join(' + ')} = ${a * b}.\nSi sabes ${a} × ${b - 1} = ${a * (b - 1)}, súmale ${a} más: ${a * b}.`,
+        }),
+      };
+    }
+  },
+};
+
+const NIVELES = [
+  { codigo: 'NUM-N1', nombre: 'Nivel 1 · Valor posicional y adición', orden: 1, conjuntos: [
+    { orden: 1, titulo: 'Valor posicional hasta 10.000', gen: 'valorPosicional', tiempo: 180,
+      oa: 'Números hasta 10.000: valor posicional (etiqueta provisoria, validar con el temario)' },
+    { orden: 2, titulo: 'Adición con reserva', gen: 'sumaConReserva', tiempo: 240,
+      oa: 'Adición y sustracción hasta 1.000 (etiqueta provisoria, validar con el temario)' },
+  ] },
+  { codigo: 'NUM-N2', nombre: 'Nivel 2 · Sustracción y multiplicación', orden: 2, conjuntos: [
+    { orden: 1, titulo: 'Sustracción con canje', gen: 'restaConCanje', tiempo: 300,
+      oa: 'Adición y sustracción hasta 1.000 (etiqueta provisoria, validar con el temario)' },
+    { orden: 2, titulo: 'Tablas de multiplicar', gen: 'tablas', tiempo: 150,
+      oa: 'Prerrequisito de 3.º básico: tablas de multiplicar (etiqueta provisoria)' },
+  ] },
+];
+const HOJAS_POR_CONJUNTO = 2;
+const EJERCICIOS_POR_HOJA = 3;
+
+const q = (s) => `'${String(s).replace(/'/g, "''")}'`;
+const sql = [
+  '-- GENERADO por scripts/generar-secuencia.js — no editar a mano (ver ese archivo).',
+  '-- Secuencia Kumon PROVISORIA de Números y operaciones (CU18): contenido de prueba hasta recibir los facsímiles.',
+  '-- Idempotente: no duplica nada si se ejecuta varias veces.',
+];
+for (const n of NIVELES) {
+  sql.push(`\nINSERT INTO nivel (codigo, nombre, eje_id, orden) VALUES (${q(n.codigo)}, ${q(n.nombre)}, (SELECT id FROM eje WHERE codigo = 'numeros'), ${n.orden})\n  ON CONFLICT (codigo) DO NOTHING;`);
+  for (const c of n.conjuntos) {
+    const cc = `${n.codigo}-C${c.orden}`;
+    sql.push(`INSERT INTO conjunto (codigo, nivel_id, orden, titulo, objetivo_aprendizaje, tiempo_estandar_seg) VALUES\n  (${q(cc)}, (SELECT id FROM nivel WHERE codigo = ${q(n.codigo)}), ${c.orden}, ${q(c.titulo)}, ${q(c.oa)}, ${c.tiempo})\n  ON CONFLICT (codigo) DO NOTHING;`);
+    for (let h = 1; h <= HOJAS_POR_CONJUNTO; h++) {
+      const ej = generadores[c.gen]().ejemplo();
+      sql.push(`INSERT INTO hoja (conjunto_id, orden, ejemplo_enunciado, ejemplo_resolucion) VALUES\n  ((SELECT id FROM conjunto WHERE codigo = ${q(cc)}), ${h}, ${q(ej.enunciado)}, ${q(ej.resolucion)})\n  ON CONFLICT (conjunto_id, orden) DO NOTHING;`);
+      for (let e = 1; e <= EJERCICIOS_POR_HOJA; e++) {
+        const x = generadores[c.gen]();
+        const codigo = `K-${n.codigo.slice(4)}C${c.orden}-H${h}-${e}`; // ej: K-N1C1-H1-1
+        sql.push(`INSERT INTO pregunta (codigo, eje_id, enunciado, opciones, respuesta_correcta, dificultad, estrategia, explicacion)\n  VALUES (${q(codigo)}, (SELECT id FROM eje WHERE codigo = 'numeros'), ${q(x.enunciado)}, ${q(JSON.stringify(x.opciones))}::jsonb, ${q(x.correcta)}, ${n.orden}, 'numerica', ${q(x.explicacion)})\n  ON CONFLICT (codigo) DO NOTHING;`);
+        sql.push(`INSERT INTO hoja_ejercicio (hoja_id, pregunta_id, orden) VALUES\n  ((SELECT h.id FROM hoja h JOIN conjunto c ON c.id = h.conjunto_id WHERE c.codigo = ${q(cc)} AND h.orden = ${h}), (SELECT id FROM pregunta WHERE codigo = ${q(codigo)}), ${e})\n  ON CONFLICT DO NOTHING;`);
+      }
+    }
+  }
+}
+const destino = path.join(__dirname, '..', 'seeds', '004_secuencia_numeros.sql');
+fs.writeFileSync(destino, sql.join('\n') + '\n');
+console.log(`✔ ${path.relative(process.cwd(), destino)}`);

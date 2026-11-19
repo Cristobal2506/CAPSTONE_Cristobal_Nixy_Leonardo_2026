@@ -1,0 +1,27 @@
+const fs = require('node:fs');
+const path = require('node:path');
+const root = path.join(__dirname, '..');
+const project = path.join(root, '..');
+const app = JSON.parse(fs.readFileSync(path.join(root, 'app.json'), 'utf8'));
+const pkg = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'));
+const backend = fs.readFileSync(path.join(project, 'backend', 'src', 'lib', 'videoProvider.js'), 'utf8');
+const pantalla = fs.readFileSync(path.join(root, 'src', 'screens', 'SalaLiveKit.tsx'), 'utf8');
+function check(test, description) { if (!test) { console.error('ERROR:', description); process.exitCode = 1; } else console.log('OK:', description); }
+check(app.expo.plugins.includes('@livekit/react-native-expo-plugin'), 'plugin LiveKit configurado');
+check(app.expo.plugins.includes('@config-plugins/react-native-webrtc'), 'plugin WebRTC configurado');
+check(!app.expo.plugins.some(x => String(x).includes('Jitsi')), 'sin plugin Jitsi');
+check(pkg.dependencies['@livekit/react-native'] && pkg.dependencies['@livekit/react-native-webrtc'], 'dependencias LiveKit declaradas');
+check(!fs.existsSync(path.join(root, 'modules', 'jitsi-native')), 'sin módulo nativo Jitsi');
+check(backend.includes('jwt.sign(') && backend.includes('roomJoin: true'), 'emisión backend JWT para LiveKit');
+check(pantalla.includes('LiveKitRoom') && pantalla.includes('VideoTrack'), 'pantalla de video React Native integrada');
+const evaluaciones = fs.readFileSync(path.join(project,'backend','src','lib','evaluaciones.js'),'utf8');
+const revision = fs.readFileSync(path.join(root,'src','screens','RevisionesUnidad.tsx'),'utf8');
+const pantallaPrueba = fs.readFileSync(path.join(root,'src','screens','RendirEvaluacion.tsx'),'utf8');
+check(pkg.dependencies['react-native-safe-area-context'], 'libreria safe area declarada');
+check(revision.includes('api.revisarEvaluacion') && revision.includes('Corrección automática:'), 'revision docente y unidad inicial');
+check(evaluaciones.includes('exigirDiagnostico') && evaluaciones.includes('r.revisado_en ? r.correctas : null'), 'diagnostico y privacidad de puntajes');
+check(pantallaPrueba.includes('SafeAreaView') && pantallaPrueba.includes('TextoDestacado'), 'zona segura y digito destacado');
+check(!fs.existsSync(path.join(root, '.env')), '.env del dispositivo no incluido en el ZIP');
+check(!fs.existsSync(path.join(project, 'backend', '.env')), 'claves privadas backend no incluidas en el ZIP');
+if (process.exitCode) process.exit(process.exitCode);
+console.log('Validaciones estructurales v13 aprobadas. NO equivalen a compilación de Android.');
